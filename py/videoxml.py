@@ -702,26 +702,26 @@ for channel_id in channel_ids:
         all_programs[channel_id] = program_data
 
 if all_programs:
-channel_names_list = list(channel_names.keys())  # Get the channel IDs in the correct order
-channel_programs = {}
-for channel_id in channel_names_list:
-    if channel_id in all_programs:
-        channel_programs[channel_id] = [
-            {
-                "title": program["title"],
-                "sub_title": program["sub_title"],
-                "description": program["description"],
-                "icon": program["icon"],
-                "category": program["category"],
-                "rating": program["rating"],
-                "actors": program["actors"],
-                "guest": program["guest"],
-                "director": program["director"],
-                "start_time": pytz.timezone("America/New_York").localize(datetime.strptime(program["start_time"], "%Y-%m-%d %H:%M:%S")),
-                "end_time": pytz.timezone("America/New_York").localize(datetime.strptime(program["end_time"], "%Y-%m-%d %H:%M:%S")),
-                "channel_id": program["channel_id"]
-            } for program in all_programs[channel_id]
-        ]
+    channel_names_list = list(channel_names.keys())  # Get the channel IDs in the correct order
+    channel_programs = {}
+    for channel_id in channel_names_list:
+        if channel_id in all_programs:
+            channel_programs[channel_id] = [
+                {
+                    "title": program["title"],
+                    "sub_title": program["sub_title"],
+                    "description": program["description"],
+                    "icon": program["icon"],
+                    "category": program["category"],
+                    "rating": program["rating"],
+                    "actors": program["actors"],
+                    "guest": program["guest"],
+                    "director": program["director"],
+                    "start_time": pytz.timezone("America/New_York").localize(datetime.strptime(program["start_time"], "%Y-%m-%d %H:%M:%S")),
+                    "end_time": pytz.timezone("America/New_York").localize(datetime.strptime(program["end_time"], "%Y-%m-%d %H:%M:%S")),
+                    "channel_id": program["channel_id"]
+                } for program in all_programs[channel_id]
+            ]
 
     # Print the XML content
     xml_content = create_xml(channel_programs)  # Generate XML content
