@@ -205,8 +205,8 @@ def main():
             link_url = link.get_attribute("href")
             live_tv_links.append((channel_name, link_url))
 
-        # Print the M3U header
-        print("#EXTM3U")
+        # Print the M3U header with EPG URL
+        print("#EXTM3U x-tvg-url=\"https://raw.githubusercontent.com/BuddyChewChew/buddylive/main/en/epg.xml\"")
 
         # Iterate over each live TV channel link
         for name, link in live_tv_links:
@@ -256,8 +256,8 @@ def main():
                     # If an exception occurs, use the default link
                     m3u8_url = "https://github.com/BuddyChewChew/buddylive/raw/refs/heads/main/en/offline.mp4"
 
-                # Print the channel info and URL
-                print(f'#EXTINF:-1 group-title="TheTVApp (Opt2)" tvg-ID="{name}" tvg-name="{name}" tvg-logo="{logo_url}", {name}')
+                # Print the channel info with EPG ID and URL
+                print(f'#EXTINF:-1 tvg-id="{name}" group-title="TheTVApp (Opt2)" tvg-name="{name}" tvg-logo="{logo_url}",{name}')
                 print(m3u8_url)
 
             except Exception as e:
