@@ -35,20 +35,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas webdriver-manager selenium selenium_stealth pytz
 
-      - name: Run Python Script videolivetv
+      - name: Run Live TV Script
         run: |
-          python py/videolivetv.py > en/videolivetv.m3u
+          python py/live_tv.py > en/live_tv.m3u
 
       - name: Show file info
         run: |
-          ls -la en/videolivetv.m3u
-          head -n 10 en/videolivetv.m3u
+          ls -la en/live_tv.m3u
+          head -n 10 en/live_tv.m3u
           
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update videolivetv.m3u"
+          commit_message: "Update live_tv.m3u"
           branch: main
-          files: en/videolivetv.m3u
+          files: en/live_tv.m3u
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
