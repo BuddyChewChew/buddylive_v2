@@ -235,12 +235,20 @@ def main():
                     network_requests = driver.execute_script("return JSON.stringify(performance.getEntries());")
                     network_requests = json.loads(network_requests)
 
+                    # Get the logo URL for the current channel
+                    logo_url = channel_logos.get(name, "")
+
                     # Filter out only the URLs containing ".m3u8"
                     m3u8_urls = [request["name"] for request in network_requests if ".m3u8" in request["name"]]
 
                     # Use the first m3u8 URL if available, otherwise use a fallback
                     if m3u8_urls:
-                        m3u8_url = m3u8_urls[0]
+                        # Sort to prefer v2 URLs over v13 fallback URLs
+                        v2_urls = [url for url in m3u8_urls if "/v2/" in url]
+                        if v2_urls:
+                            m3u8_url = v2_urls[0]
+                        else:
+                            m3u8_url = m3u8_urls[0]
                     else:
                         m3u8_url = "https://github.com/BuddyChewChew/buddylive/raw/refs/heads/main/en/offline.mp4"
                         
