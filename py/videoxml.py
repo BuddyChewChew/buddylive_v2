@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import pytz
 import xml.etree.ElementTree as ET
+from dateutil import parser
 
 # Dictionary mapping channel IDs to channel names
 channel_names = {
@@ -382,6 +383,9 @@ def prettify(elem, level=0):
             elem.tail = indent
 
 def format_timezone_aware_datetime(dt):
+    if isinstance(dt, str):
+        # Attempt to parse the datetime string
+        dt = parser.parse(dt)
     if dt.tzinfo is None:
         return dt.strftime("%Y%m%d%H%M%S")
     else:
