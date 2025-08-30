@@ -38,17 +38,25 @@ jobs:
       - name: Run Live TV Script
         run: |
           python py/live_tv.py > en/live_tv.m3u
-
+          
+      - name: Generate EPG
+        run: |
+          python py/generate_epg.py
+          
       - name: Show file info
         run: |
-          ls -la en/live_tv.m3u
+          ls -la en/live_tv.m3u en/epg.xml
           head -n 10 en/live_tv.m3u
+          echo "EPG file generated with size:"
+          ls -la en/epg.xml
           
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update live_tv.m3u"
           branch: main
-          files: en/live_tv.m3u
+          files: |
+            en/live_tv.m3u
+            en/epg.xml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
