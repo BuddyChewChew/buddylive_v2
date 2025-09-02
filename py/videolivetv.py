@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium_stealth import stealth
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.core.os_manager import ChromeType
+from channel_mapping import channel_names
 import random
 import time
 import json
@@ -253,9 +254,16 @@ for name, link in live_tv_links:
         # If an exception occurs (e.g., button not found), use the default link
         m3u8_url = "https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4"
 
-    # Print the collected m3u8 URL
+    # Get the EPGShare01 channel ID, defaulting to the channel name if not found
+    channel_id = channel_names.get(name, name)
+    
+    # Special case for A&E channel
+    if name == "A&E":
+        channel_id = "A.and.E.US.-.Eastern.Feed.us"
+    
+    # Print the collected m3u8 URL with the correct EPGShare01 channel ID
     if m3u8_urls:
-        print(f"#EXTINF:-1 group-title=\"USA TV\" tvg-ID=\"{name}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
+        print(f"#EXTINF:-1 group-title=\"USA TV\" tvg-id=\"{channel_id}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
         print(m3u8_url)  # Print only the first m3u8 URL
 
 
