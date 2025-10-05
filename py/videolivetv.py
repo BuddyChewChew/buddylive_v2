@@ -11,9 +11,7 @@ import random
 import time
 import json
 
-
 user_agents = [
-    #add your list of user agents here
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
     'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
@@ -25,9 +23,7 @@ user_agents = [
     'Mozilla/5.0 (iPhone; CPU iPhone OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/127.0 Mobile/15E148 Safari/605.1.15',
     'Mozilla/5.0 (Android 14; Mobile; rv:127.0) Gecko/126.0 Firefox/126.0',
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:115.0) Gecko/20100101 Firefox/115.0',
-
 ]
-
 
 # Dictionary mapping channel IDs to channel names
 channel_logos = {
@@ -148,12 +144,10 @@ channel_logos = {
     "WE tv": "https://cdn.tvpassport.com/image/station/240x135/v2/s59296_h15_aa.png",
     "WNBC (New York) NBC East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",
     "WNYW (New York) FOX East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"
-
-    # Add more channel IDs and names as needed
 }
 
+# Initialize Chrome WebDriver
 chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
-
 
 # Set Chrome options
 chrome_options = webdriver.ChromeOptions()
@@ -187,7 +181,6 @@ stealth(
 url = "https://thetvapp.to/"
 driver.get(url)
 
-
 # Wait for the page to load
 wait = WebDriverWait(driver, 10)
 wait.until(EC.presence_of_element_located((By.CLASS_NAME, "row")))
@@ -215,6 +208,10 @@ print("#EXTM3U")
 
 # Iterate over each live TV channel link
 for name, link in live_tv_links:
+    # Initialize variables with default values
+    m3u8_url = "https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4"
+    logo_url = channel_logos.get(name, "")
+    
     # Navigate to the link URL
     driver.get(link)
 
@@ -222,10 +219,10 @@ for name, link in live_tv_links:
         # Wait for the button to be clickable
         wait = WebDriverWait(driver, 5)
         try:
-            # Try to find loadVideoBtnOne first
+            # Try to find loadVideoBtn first
             video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtn')))
         except:
-            # If loadVideoBtnOne is not found, look for loadVideoBtnTwo
+            # If loadVideoBtn is not found, look for loadVideoBtnTwo
             video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtnTwo')))
         video_button.click()
 
@@ -238,21 +235,17 @@ for name, link in live_tv_links:
         # Convert the string back to a list of dictionaries in Python
         network_requests = json.loads(network_requests)
 
-        # Get the logo URL for the current channel
-        logo_url = channel_logos.get(name)
-
-
         # Filter out only the URLs containing ".m3u8"
         m3u8_urls = [request["name"] for request in network_requests if ".m3u8" in request["name"]]
 
-        # Print the collected m3u8 URLs
+        # If we found any m3u8 URLs, use the first one
         if m3u8_urls:
             m3u8_url = m3u8_urls[0]
-        else:
-            m3u8_url = "https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4"
+
     except Exception as e:
-        # If an exception occurs (e.g., button not found), use the default link
-        m3u8_url = "https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4"
+        # If any error occurs, the default URL will be used
+        print(f"Error processing {name}: {str(e)}")
+        pass
 
     # Get the EPGShare01 channel ID, defaulting to the channel name if not found
     channel_id = channel_names.get(name, name)
@@ -261,13 +254,9 @@ for name, link in live_tv_links:
     if name == "A&E":
         channel_id = "A.and.E.US.-.Eastern.Feed.us"
     
-    # Print the collected m3u8 URL with the correct EPGShare01 channel ID
-    if m3u8_urls:
-        print(f"#EXTINF:-1 group-title=\"USA TV\" tvg-id=\"{channel_id}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
-        print(m3u8_url)  # Print only the first m3u8 URL
-
+    # Print the channel information and URL
+    print(f"#EXTINF:-1 group-title=\"USA TV\" tvg-id=\"{channel_id}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
+    print(m3u8_url)
 
 # Close the WebDriver
 driver.quit()
-
-
