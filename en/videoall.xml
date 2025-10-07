@@ -467,85 +467,6 @@
         <display-name lang="en">The CW (WPIX New York)</display-name>
         <icon src="https://epgshare01.online/logos/WPIX-DT.us_locals1.png" />
         </channel>
-    <programme start="20251006050000 +0000" stop="20251006080000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">American League Division Series, Game 2.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Playoff sports</category>
-        <category lang="en">Baseball</category>
-        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CP962.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006080000 +0000" stop="20251006110000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">American League Division Series, Game 2.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Playoff sports</category>
-        <category lang="en">Baseball</category>
-        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CP8EL.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006110000 +0000" stop="20251006120000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
-        <title lang="en">College Football</title>
-        <desc lang="en">The No. 20 Wolverines (3-1, 1-0 Big Ten) look to turn up the heat on the Badgers (2-2, 0-1). Wisconsin has lost two straight after falling to Maryland for the first time, 27-10 on Sept. 20. Michigan running back Justice Haynes has six TDs in 2025.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Football</category>
-        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG001EC615.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006120000 +0000" stop="20251006140000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
-        <title lang="en">Live: Wake Up Barstool</title>
-        <desc lang="en">Dave Portnoy, Big Cat, PFT, and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Sports talk</category>
-        <icon src="http://dshm.tmsimg.com/assets/p31051666_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006140000 +0000" stop="20251006160000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
-        <title lang="en">Wake Up Barstool</title>
-        <desc lang="en">Dave Portnoy, Big Cat, PFT, and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Sports talk</category>
-        <icon src="http://dshm.tmsimg.com/assets/p31051666_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006160000 +0000" stop="20251006190000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
-        <title lang="en">Live: The Herd With Colin Cowherd</title>
-        <desc lang="en">A thought-provoking, opinionated, and topic-driven journey through the top sports stories of the day.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Sports talk</category>
-        <icon src="http://dshm.tmsimg.com/assets/p299598_b_h10_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006190000 +0000" stop="20251006210000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
-        <title lang="en">Live: First Things First</title>
-        <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes explore and energetically advance the biggest stories in sports.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Sports talk</category>
-        <icon src="http://dshm.tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006210000 +0000" stop="20251006220000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
-        <title lang="en">Live: First Things First: OT</title>
-        <desc lang="en">Nick Wright, Chris Broussard, Kevin Wildes, and OT anchor Danny Parkins offer their opinions on the day's biggest sports stories.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Sports talk</category>
-        <icon src="http://dshm.tmsimg.com/assets/p31032409_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006220000 +0000" stop="20251007000000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
-        <title lang="en">Rodeo</title>
-        <desc lang="en">The best moments from The Governor's Cup Pro Rodeo, where top cowboys and cowgirls make their final push at punching their tickets to the National Finals Rodeo. Experience all the highlights, the heartbreak, and the glory from this pivotal event.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Rodeo</category>
-        <icon src="http://dshm.tmsimg.com/assets/p31179297_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007000000 +0000" stop="20251007010000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
-        <title lang="en">MotoGP Racing</title>
-        <desc lang="en">From Mandalika International Street Circuit in Nusa Tenggara Barat, Indonesia.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Motorcycle racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p445587_b_h8_aj.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007010000 +0000" stop="20251007030000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
-        <title lang="en">ARCA Menards Series</title>
-        <desc lang="en">From Toledo Speedway in Toledo, Ohio.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Auto racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p22146133_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
     <programme start="20251007030000 +0000" stop="20251007060000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
         <title lang="en">College Football</title>
         <desc lang="en">The No. 20 Wolverines (3-1, 1-0 Big Ten) look to turn up the heat on the Badgers (2-2, 0-1). Wisconsin has lost two straight after falling to Maryland for the first time, 27-10 on Sept. 20. Michigan running back Justice Haynes has six TDs in 2025.</desc>
@@ -621,7 +542,7 @@
         <category lang="en">Sports</category>
         <category lang="en">Playoff sports</category>
         <category lang="en">Baseball</category>
-        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CVJYX.jpg?w=960&amp;h=540" />
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CWLCP.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251007230000 +0000" stop="20251008000000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
         <title lang="en">Live: MLB on FS1 Pregame</title>
@@ -663,7 +584,7 @@
         <category lang="en">Sports</category>
         <category lang="en">Playoff sports</category>
         <category lang="en">Baseball</category>
-        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CVJYX.jpg?w=960&amp;h=540" />
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CWLCP.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251008110000 +0000" stop="20251008113000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
         <title lang="en">MLB Epic Moments</title>
@@ -712,7 +633,7 @@
         <category lang="en">Sports</category>
         <category lang="en">Playoff sports</category>
         <category lang="en">Baseball</category>
-        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CGLWJ.jpg?w=960&amp;h=540" />
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CX871.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251008220000 +0000" stop="20251008230000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
         <title lang="en">Live: MLB on FS1 Pregame</title>
@@ -769,7 +690,7 @@
         <category lang="en">Sports</category>
         <category lang="en">Playoff sports</category>
         <category lang="en">Baseball</category>
-        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CGLWJ.jpg?w=960&amp;h=540" />
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CX871.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251009110000 +0000" stop="20251009113000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
         <title lang="en">TMZ Sports</title>
@@ -823,6 +744,7 @@
     <programme start="20251009220000 +0000" stop="20251009223000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
         <title lang="en">Kevin Harvick's Happy Hour</title>
         <desc lang="en">NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.</desc>
+        <category lang="en">Series</category>
         <category lang="en">Auto racing</category>
         <icon src="http://dshm.tmsimg.com/assets/p27869670_b_h8_ac.jpg?w=960&amp;h=540" />
         </programme>
@@ -868,131 +790,126 @@
         <category lang="en">Sports talk</category>
         <icon src="http://dshm.tmsimg.com/assets/p31051666_b_h8_ac.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006040000 +0000" stop="20251006070000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">College Football</title>
-        <desc lang="en">The Horned Frogs (3-1, 0-1 Big 12) try to exact revenge on Deion Sanders and the Buffaloes (2-3, 0-2). Colorado stunned then-No. 17 TCU 45-42 in 2023 in Sanders' first game as Buffaloes coach. Kaidon Salter (COLO) has accounted for nine touchdowns.</desc>
+    <programme start="20251010050000 +0000" stop="20251010070000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">Men's International Soccer Friendlies</title>
+        <desc lang="en">From Wembley Stadium in London.</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Soccer</category>
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CTF8C.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010070000 +0000" stop="20251010073000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">TMZ Sports</title>
+        <desc lang="en">Gossip and exclusive stories about athletes' personal lives.</desc>
+        <category lang="en">Newsmagazine</category>
+        <category lang="en">Entertainment</category>
+        <icon src="http://dshm.tmsimg.com/assets/p10455655_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010073000 +0000" stop="20251010103000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">American League Division Series, Game 4. (If necessary).</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Playoff sports</category>
+        <category lang="en">Baseball</category>
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CGKE9.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010103000 +0000" stop="20251010110000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">Big Noon Kickoff Presents Bear Bets</title>
+        <desc lang="en">Betting expert Chris "The Bear" Fallica hosts the Big Noon Kickoff college football show.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Football</category>
+        <icon src="http://dshm.tmsimg.com/assets/p28825311_b_h8_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010110000 +0000" stop="20251010113000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">OutKick the Show with Clay Travis</title>
+        <desc lang="en">OutKick the Show, hosted by Clay Travis, is a no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Sports talk</category>
+        <icon src="http://dshm.tmsimg.com/assets/p31204015_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010113000 +0000" stop="20251010120000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">The Joel Klatt Show: A College Football Podcast</title>
+        <desc lang="en">Joel Klatt breaks down the biggest topics in the world of college football.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Sports talk</category>
+        <icon src="http://dshm.tmsimg.com/assets/p26575653_b_h8_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010120000 +0000" stop="20251010140000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">Live: Wake Up Barstool</title>
+        <desc lang="en">Dave Portnoy, Big Cat, PFT, and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Sports talk</category>
+        <icon src="http://dshm.tmsimg.com/assets/p31051666_b_h8_ac.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010140000 +0000" stop="20251010160000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">Wake Up Barstool</title>
+        <desc lang="en">Dave Portnoy, Big Cat, PFT, and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Sports talk</category>
+        <icon src="http://dshm.tmsimg.com/assets/p31051666_b_h8_ac.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010160000 +0000" stop="20251010190000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">Live: The Herd With Colin Cowherd</title>
+        <desc lang="en">A thought-provoking, opinionated, and topic-driven journey through the top sports stories of the day.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Sports talk</category>
+        <icon src="http://dshm.tmsimg.com/assets/p299598_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010190000 +0000" stop="20251010193000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">Live: First Things First</title>
+        <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes explore and energetically advance the biggest stories in sports.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Sports talk</category>
+        <icon src="http://dshm.tmsimg.com/assets/p14451555_b_h8_ag.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010193000 +0000" stop="20251010203000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">Live: MLB on FS1 Pregame</title>
+        <desc lang="en">Breaking down the biggest MLB matchups on FOX.</desc>
+        <category lang="en">Baseball</category>
+        <icon src="http://dshm.tmsimg.com/assets/p10690037_b_h8_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010203000 +0000" stop="20251010233000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">Live: MLB Baseball</title>
+        <desc lang="en">American League Division Series, Game 5. (If necessary).</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Playoff sports</category>
+        <category lang="en">Baseball</category>
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CX7CJ.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010233000 +0000" stop="20251011000000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">OutKick the Show with Clay Travis</title>
+        <desc lang="en">OutKick the Show, hosted by Clay Travis, is a no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Sports talk</category>
+        <icon src="http://dshm.tmsimg.com/assets/p31204015_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011000000 +0000" stop="20251011003000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">The Joel Klatt Show: A College Football Podcast</title>
+        <desc lang="en">Joel Klatt breaks down the biggest topics in the world of college football.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Sports talk</category>
+        <icon src="http://dshm.tmsimg.com/assets/p26575653_b_h8_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011003000 +0000" stop="20251011010000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">Big Noon Kickoff Presents Bear Bets</title>
+        <desc lang="en">Betting expert Chris "The Bear" Fallica hosts the Big Noon Kickoff college football show.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Football</category>
+        <icon src="http://dshm.tmsimg.com/assets/p28825311_b_h8_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011010000 +0000" stop="20251011043000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">Live: College Football</title>
+        <desc lang="en">Quarterbacks take center stage as the Scarlet Knights (3-2, 0-2 Big Ten) visit the Huskies (4-1, 1-1). Athan Kaliakmanis (RUTG) has passed for 1,399 yards and nine touchdowns. Demond Williams Jr. (WASH) has thrown for 1,226 yards and eight scores.</desc>
         <category lang="en">Sports</category>
         <category lang="en">Football</category>
-        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG001EC9RK.jpg?w=960&amp;h=540" />
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG001ECKLK.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006070000 +0000" stop="20251006080000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">College Football</title>
-        <desc lang="en">The No. 20 Wolverines (3-1, 1-0 Big Ten) look to turn up the heat on the Badgers (2-2, 0-1). Wisconsin has lost two straight after falling to Maryland for the first time, 27-10 on Sept. 20. Michigan running back Justice Haynes has six TDs in 2025.</desc>
+    <programme start="20251011043000 +0000" stop="20251011073000 +0000" channel="FS1.Fox.Sports.1.HD.us2">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">American League Division Series, Game 5. (If necessary).</desc>
         <category lang="en">Sports</category>
-        <category lang="en">Football</category>
-        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG001EC615.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006080000 +0000" stop="20251006100000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">ARCA Menards Series</title>
-        <desc lang="en">From Toledo Speedway in Toledo, Ohio.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Auto racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p22146133_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006100000 +0000" stop="20251006103000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">NHRA in 30</title>
-        <desc lang="en">Highlights from Lucas Oil Indianapolis Raceway Park in Indianapolis, Ind.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Auto racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p13816448_b_h8_ae.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006103000 +0000" stop="20251006110000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">Extreme E Championship Highlights</title>
-        <desc lang="en">Highlights from the Extreme E Championships for electric cars.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Auto racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p22487020_b_h10_ab.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006110000 +0000" stop="20251006130000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">Extreme E Off-Road Racing</title>
-        <desc lang="en">Coverage of Extreme E racing.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Auto racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p19706787_b_h8_ai.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006130000 +0000" stop="20251006140000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">MotoAmerica King of the Baggers Rewind</title>
-        <desc lang="en">MotoAmerica presents Mission King of the Baggers. Watch the Harley and Indian V-Twins go head to head to crown the King of the Baggers.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Motorcycle racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p27954955_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006140000 +0000" stop="20251006150000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">MotoAmerica Rewind</title>
-        <desc lang="en">Replays of motorcycle road racing action in North America.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Motorcycle racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p16680023_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006150000 +0000" stop="20251006170000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">ARCA Menards Series</title>
-        <desc lang="en">From Toledo Speedway in Toledo, Ohio.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Auto racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p22146133_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006170000 +0000" stop="20251006180000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">NASCAR Craftsman Truck Series</title>
-        <desc lang="en">The NASCAR Craftsman Truck Series starts the Round of 8 with its debut on the Roval at Charlotte Motor Speedway. Despite a second-place finish at New Hampshire, Chandler Smith was eliminated from postseason contention along with Jake Garcia.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Auto racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p28901167_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006180000 +0000" stop="20251006210000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">College Football</title>
-        <desc lang="en">The Spartans clash with the Cornhuskers. Both programs come out of a bye with a 3-1 record after taking a loss in Week 4. Michigan State has won back-to-back games over Nebraska by three points. Dylan Raiola (NEB) has 11 TD passes through four games.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Football</category>
-        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG001EC5SR.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006210000 +0000" stop="20251007000000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">College Football</title>
-        <desc lang="en">The Horned Frogs (3-1, 0-1 Big 12) try to exact revenge on Deion Sanders and the Buffaloes (2-3, 0-2). Colorado stunned then-No. 17 TCU 45-42 in 2023 in Sanders' first game as Buffaloes coach. Kaidon Salter (COLO) has accounted for nine touchdowns.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Football</category>
-        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG001EC9RK.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007000000 +0000" stop="20251007010000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">Pokerstars Big Game on Tour</title>
-        <desc lang="en">The Big Game is back in Las Vegas for another thrilling season, featuring an amateur player taking on some of the biggest names in poker, including Jennifer Tilly. Also joining the action is legendary soccer star Gerard Piqué.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Poker</category>
-        <icon src="http://dshm.tmsimg.com/assets/p27097493_b_h8_ab.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007010000 +0000" stop="20251007020000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">Pokerstars Big Game on Tour</title>
-        <desc lang="en">More high stakes cash action from Las Vegas. Bomb pots make their explosive Big Game debut, leaving one player fuming and in need of a reload. Meanwhile, Loose Cannon Jordan Handrich faces off against UK pro Sam Grafton in a hand worth $40,000.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Poker</category>
-        <icon src="http://dshm.tmsimg.com/assets/p27097493_b_h8_ab.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007020000 +0000" stop="20251007030000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">Pokerstars Big Game on Tour</title>
-        <desc lang="en">It's a high stakes cash game in Vegas with an amateur player competing against the pros. Tonight, Jordan the Loose Cannon goes for bomb pots, while Jennifer Tilly and Sam Grafton spar in multiple hands, with tens of thousands of dollars on the line.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Poker</category>
-        <icon src="http://dshm.tmsimg.com/assets/p27097493_b_h8_ab.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007030000 +0000" stop="20251007040000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">MotoGP Racing</title>
-        <desc lang="en">From Mandalika International Street Circuit in Nusa Tenggara Barat, Indonesia.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Motorcycle racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p445587_b_h8_aj.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007040000 +0000" stop="20251007043000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">MotoGP Racing</title>
-        <desc lang="en">From Mandalika International Street Circuit in Nusa Tenggara Barat, Indonesia.</desc>
-        <category lang="en">Sports</category>
-        <category lang="en">Motorcycle racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p445587_b_h8_aj.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007043000 +0000" stop="20251007050000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
-        <title lang="en">Extreme E Championship Highlights</title>
-        <desc lang="en">Highlights from the Extreme E Championships for electric cars.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Auto racing</category>
-        <icon src="http://dshm.tmsimg.com/assets/p22487020_b_h10_ab.jpg?w=960&amp;h=540" />
+        <category lang="en">Playoff sports</category>
+        <category lang="en">Baseball</category>
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CMGJ2.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251007050000 +0000" stop="20251007070000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
         <title lang="en">ARCA Menards Series</title>
@@ -1042,7 +959,7 @@
         <desc lang="en">From the Elias Figueroa Brander Stadium in Valparaiso, Chile.</desc>
         <category lang="en">Sports</category>
         <category lang="en">Soccer</category>
-        <icon src="http://dshm.tmsimg.com/assets/p30380723_b_h8_ad.jpg?w=960&amp;h=540" />
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CXHQK.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251007213000 +0000" stop="20251007220000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
         <title lang="en">MotoGP Racing</title>
@@ -1063,7 +980,7 @@
         <desc lang="en">From the Elias Figueroa Brander Stadium in Valparaiso, Chile.</desc>
         <category lang="en">Sports</category>
         <category lang="en">Soccer</category>
-        <icon src="http://dshm.tmsimg.com/assets/p30380723_b_h8_ad.jpg?w=960&amp;h=540" />
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CXFHL.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251008010000 +0000" stop="20251008040000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
         <title lang="en">College Football</title>
@@ -1133,7 +1050,7 @@
         <desc lang="en">From Julio Martinez Pradanos National Stadium in Santiago, Chile.</desc>
         <category lang="en">Sports</category>
         <category lang="en">Soccer</category>
-        <icon src="http://dshm.tmsimg.com/assets/p30380723_b_h8_ad.jpg?w=960&amp;h=540" />
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CK9EQ.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251008213000 +0000" stop="20251008220000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
         <title lang="en">OutKick the Show with Clay Travis</title>
@@ -1151,10 +1068,10 @@
         </programme>
     <programme start="20251008224800 +0000" stop="20251009010000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
         <title lang="en">Live: 2025 FIFA U-20 World Cup</title>
-        <desc lang="en">From Fiscal de Talca Stadium in Talca, Maule, Chile.</desc>
+        <desc lang="en">From Julio Martinez Pradanos National Stadium in Santiago, Chile.</desc>
         <category lang="en">Sports</category>
         <category lang="en">Soccer</category>
-        <icon src="http://dshm.tmsimg.com/assets/p30380723_b_h8_ad.jpg?w=960&amp;h=540" />
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CKC7V.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251009010000 +0000" stop="20251009040000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
         <title lang="en">College Football</title>
@@ -1279,14 +1196,14 @@
         <desc lang="en">From El Teniente Stadium in Rancagua, Cachapoal, Chile.</desc>
         <category lang="en">Sports</category>
         <category lang="en">Soccer</category>
-        <icon src="http://dshm.tmsimg.com/assets/p30380723_b_h8_ad.jpg?w=960&amp;h=540" />
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CXN6S.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251010010000 +0000" stop="20251010030000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
         <title lang="en">2025 FIFA U-20 World Cup</title>
         <desc lang="en">From El Teniente Stadium in Rancagua, Cachapoal, Chile.</desc>
         <category lang="en">Sports</category>
         <category lang="en">Soccer</category>
-        <icon src="http://dshm.tmsimg.com/assets/p30380723_b_h8_ad.jpg?w=960&amp;h=540" />
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CKCRC.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251010030000 +0000" stop="20251010040000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
         <title lang="en">UEFA World Cup Qualifying Matchnight Highlights</title>
@@ -1309,488 +1226,131 @@
         <category lang="en">Auto racing</category>
         <icon src="http://dshm.tmsimg.com/assets/p31064459_b_h10_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006050000 +0000" stop="20251006053000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Odd Squad</title>
-        <desc lang="en">With a spike in oddness in the U.K., Department of Help Agent Ozzie suggests they send for help from another agent; with a creature on the loose and Captain O unable to help, Ozzie and Orli must work together to capture it and save HQ.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Entertainment</category>
-        <icon src="http://dshm.tmsimg.com/assets/p11086138_b_h8_ac.jpg?w=960&amp;h=540" />
+    <programme start="20251010053000 +0000" stop="20251010073000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Women's College Volleyball</title>
+        <desc lang="en">From Galen Center in Los Angeles.</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Volleyball</category>
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG00291DZM.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006053000 +0000" stop="20251006060000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Skillsville</title>
-        <desc lang="en">Cora opens a lemonade stand; Rae focuses on giving her customers the haircuts and colors they want.</desc>
+    <programme start="20251010073000 +0000" stop="20251010080000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">The Joel Klatt Show: A College Football Podcast</title>
+        <desc lang="en">Joel Klatt breaks down the biggest topics in the world of college football.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p29225700_b_h8_aa.jpg?w=960&amp;h=540" />
+        <category lang="en">Sports talk</category>
+        <icon src="http://dshm.tmsimg.com/assets/p26575653_b_h8_ab.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006060000 +0000" stop="20251006063000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Wild Kratts</title>
-        <desc lang="en">Chris, Martin and Aviva need osprey creature powers to find keys that Jimmy dropped in the ocean.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Science</category>
-        <category lang="en">Nature</category>
-        <category lang="en">Animals</category>
-        <category lang="en">Animated</category>
-        <icon src="http://dshm.tmsimg.com/assets/p8369911_b_h8_aj.jpg?w=960&amp;h=540" />
+    <programme start="20251010080000 +0000" stop="20251010100000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Live: AFL Women's Premiership Football</title>
+        <desc lang="en">From Mission Whitten Oval in Footscray, Victoria, Australia.</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Australian rules football</category>
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG00289J14.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006063000 +0000" stop="20251006070000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Weather Hunters</title>
-        <desc lang="en">The Hunters investigate a weather mystery surrounding massive rocks that move on their own in the desert.</desc>
+    <programme start="20251010100000 +0000" stop="20251010103000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Big Noon Kickoff Presents Bear Bets</title>
+        <desc lang="en">Betting expert Chris "The Bear" Fallica hosts the Big Noon Kickoff college football show.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p30635533_b_h8_aa.jpg?w=960&amp;h=540" />
+        <category lang="en">Football</category>
+        <icon src="http://dshm.tmsimg.com/assets/p28825311_b_h8_ab.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006070000 +0000" stop="20251006073000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Mystery League</title>
-        <desc lang="en">Mike, Millie and Marta work on their first case -- the missing 1973 Mulberry Springs Elementary time capsule.</desc>
+    <programme start="20251010103000 +0000" stop="20251010110000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">OutKick the Show with Clay Travis</title>
+        <desc lang="en">OutKick the Show, hosted by Clay Travis, is a no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Animated</category>
-        <icon src="http://dshm.tmsimg.com/assets/p25914045_b_h8_ab.jpg?w=960&amp;h=540" />
+        <category lang="en">Sports talk</category>
+        <icon src="http://dshm.tmsimg.com/assets/p31204015_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006073000 +0000" stop="20251006080000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Mystery League</title>
-        <desc lang="en">Elena loses her show and tell object -- a gift from family in Puerto Rico; the detectives organize a cleanup of Mockingbird Creek.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Animated</category>
-        <icon src="http://dshm.tmsimg.com/assets/p25914045_b_h8_ab.jpg?w=960&amp;h=540" />
+    <programme start="20251010110000 +0000" stop="20251010130000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Women's College Volleyball</title>
+        <desc lang="en">From Covelli Centre in Youngstown, Ohio.</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Volleyball</category>
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG00291G0D.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006080000 +0000" stop="20251006083000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Mystery League</title>
-        <desc lang="en">The detectives take on the case of the mystery mash served in the school cafeteria; classmate Spencer Lewis is convinced his teacher is a robot.</desc>
+    <programme start="20251010130000 +0000" stop="20251010135000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Live: Extreme H Championship</title>
+        <desc lang="en">The FIA Extreme H World Cup represents a bold, pioneering step forward in the transition to clean energy, showcasing cutting-edge hydrogen technology in a competitive racing environment.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Animated</category>
-        <icon src="http://dshm.tmsimg.com/assets/p25914045_b_h8_ab.jpg?w=960&amp;h=540" />
+        <category lang="en">Auto racing</category>
+        <icon src="http://dshm.tmsimg.com/assets/p31064459_b_h10_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006083000 +0000" stop="20251006090000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Mystery League</title>
-        <desc lang="en">The local library receives a boatload of books from a mysterious donor; the detectives work to figure out a critic's secret identity.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Animated</category>
-        <icon src="http://dshm.tmsimg.com/assets/p25914045_b_h8_ab.jpg?w=960&amp;h=540" />
+    <programme start="20251010135000 +0000" stop="20251010160000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Live: FIFA World Cup 2026 Qualifying</title>
+        <desc lang="en">1st Round, Group J.</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Soccer</category>
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CXPGV.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006090000 +0000" stop="20251006093000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Cyberchase</title>
-        <desc lang="en">Hacker positions giant patches of trash in cyberspace in a plan to finally shut down Motherboard once and for all.</desc>
+    <programme start="20251010160000 +0000" stop="20251010163000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Big Noon Kickoff Presents Bear Bets</title>
+        <desc lang="en">Betting expert Chris "The Bear" Fallica hosts the Big Noon Kickoff college football show.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Science</category>
-        <category lang="en">Technology</category>
-        <icon src="http://dshm.tmsimg.com/assets/p186055_b_h8_ac.jpg?w=960&amp;h=540" />
+        <category lang="en">Football</category>
+        <icon src="http://dshm.tmsimg.com/assets/p28825311_b_h8_ab.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006093000 +0000" stop="20251006100000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Ready Jet Go!</title>
-        <desc lang="en">Bad weather threatens Sean's first sleepout with his Space Scouts troop; the kids prepare a total eclipse song and dance.</desc>
+    <programme start="20251010163000 +0000" stop="20251010170000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">The Joel Klatt Show: A College Football Podcast</title>
+        <desc lang="en">Joel Klatt breaks down the biggest topics in the world of college football.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Science</category>
-        <icon src="http://dshm.tmsimg.com/assets/p15160688_b_h8_ab.jpg?w=960&amp;h=540" />
+        <category lang="en">Sports talk</category>
+        <icon src="http://dshm.tmsimg.com/assets/p26575653_b_h8_ab.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006100000 +0000" stop="20251006103000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Clifford the Big Red Dog</title>
-        <desc lang="en">Building a clubhouse causes friction between Emily Elizabeth, Samantha and Pablo; the members of the "Birdwell Islandeers" realize they don't all agree on what it means to be a hero.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p186057_b_h10_aj.jpg?w=960&amp;h=540" />
+    <programme start="20251010170000 +0000" stop="20251010183000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Live: Horse Racing</title>
+        <desc lang="en">Following all the action from the world of horse racing.</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Horse racing</category>
+        <icon src="http://dshm.tmsimg.com/assets/p31077321_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006103000 +0000" stop="20251006110000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Sesame Street</title>
-        <desc lang="en">It's Opposite Day on Sesame Street and everyone's doing things that are as different as they can be; Bert and Ernie notice that everyone's having fun doing opposites and realize they like so many opposite things too.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Entertainment</category>
-        <icon src="http://dshm.tmsimg.com/assets/p184032_b_h8_ag.jpg?w=960&amp;h=540" />
+    <programme start="20251010183000 +0000" stop="20251010203000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Live: FIFA World Cup 2026 Qualifying</title>
+        <desc lang="en">1st Round, Group D.</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Soccer</category>
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG002CSWPL.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006110000 +0000" stop="20251006113000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Pinkalicious &amp; Peterrific</title>
-        <desc lang="en">Pinkalicious and Peter have to change their plans for a backyard campout when it starts raining; flutterbugs crash a tea party that Pinkalicious has with her friends.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Animated</category>
-        <icon src="http://dshm.tmsimg.com/assets/p14938814_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010203000 +0000" stop="20251010213000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Live: Horse Racing</title>
+        <desc lang="en">Following all the action from the world of horse racing.</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Horse racing</category>
+        <icon src="http://dshm.tmsimg.com/assets/p31379765_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006113000 +0000" stop="20251006120000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Curious George</title>
-        <desc lang="en">George learns how to use tools so he can fix a cuckoo clock and the library clock; Bill's pet bunnies escape.</desc>
+    <programme start="20251010213000 +0000" stop="20251010220000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Extreme E Championship Highlights</title>
+        <desc lang="en">Highlights from the Extreme E Championships for electric cars.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p186074_b_h8_bo.jpg?w=960&amp;h=540" />
+        <category lang="en">Auto racing</category>
+        <icon src="http://dshm.tmsimg.com/assets/p22487020_b_h10_ab.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006120000 +0000" stop="20251006123000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Sesame Street</title>
-        <desc lang="en">Elmo shares his scooter with Zoe and learns how to be patient and wait for his turn, while she practices and learns how to ride.</desc>
+    <programme start="20251010220000 +0000" stop="20251010230000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Extreme H Championship</title>
+        <desc lang="en">The FIA Extreme H World Cup represents a bold, pioneering step forward in the transition to clean energy, showcasing cutting-edge hydrogen technology in a competitive racing environment.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Entertainment</category>
-        <icon src="http://dshm.tmsimg.com/assets/p184032_b_h8_ag.jpg?w=960&amp;h=540" />
+        <category lang="en">Auto racing</category>
+        <icon src="http://dshm.tmsimg.com/assets/p31064459_b_h10_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006123000 +0000" stop="20251006130000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Milo</title>
-        <desc lang="en">Milo, Lofty and Lark take part in the Milotown Tennis Championship; ball boy Lofty shows the best teamwork off court.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Adventure</category>
-        <category lang="en">Fantasy</category>
-        <icon src="http://dshm.tmsimg.com/assets/p19910995_b_h10_ag.jpg?w=960&amp;h=540" />
+    <programme start="20251010230000 +0000" stop="20251011020000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Live: Horse Racing</title>
+        <desc lang="en">Following all the action from the world of horse racing.</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Horse racing</category>
+        <icon src="http://dshm.tmsimg.com/assets/p727544_b_h8_bc.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006130000 +0000" stop="20251006133000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Work It Out Wombats!</title>
-        <desc lang="en">Measuring helps the Wombats make a new hat for Ellie; the Wombats clean up a big mess.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Adventure</category>
-        <icon src="http://dshm.tmsimg.com/assets/p23615398_b_h8_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251011020000 +0000" stop="20251011040000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Live: AFL Women's Premiership Football</title>
+        <desc lang="en">From Norwood Oval in Norwood, South Australia, Australia.</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Australian rules football</category>
+        <icon src="http://dshm.tmsimg.com/assets/p14834144_b_h8_af.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006133000 +0000" stop="20251006140000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Work It Out Wombats!</title>
-        <desc lang="en">Kaya's cooking class; the Wombats go on a treasure hunt.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Adventure</category>
-        <icon src="http://dshm.tmsimg.com/assets/p23615398_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006140000 +0000" stop="20251006143000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Daniel Tiger's Neighborhood</title>
-        <desc lang="en">Daniel and his friends help rebuild Music Man Stan's scene after a gust of wind knocks it down; Daniel and his friends try new games at Fall Field Day.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p13769146_b_h10_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006143000 +0000" stop="20251006150000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Daniel Tiger's Neighborhood</title>
-        <desc lang="en">Jodi tries ballet and becomes frustrated when she is unable to do a ballet dance; Daniel tries to make his own snack.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p9175156_b_h10_ak.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006150000 +0000" stop="20251006153000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Carl the Collector</title>
-        <desc lang="en">Lotta is frustrated learning a new dance, but realizes it is ok to experience music in her own way; Sheldon worries about telling Carl that he doesn't want to play pirates anymore.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Entertainment</category>
-        <icon src="http://dshm.tmsimg.com/assets/p28255947_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006153000 +0000" stop="20251006160000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Carl the Collector</title>
-        <desc lang="en">Arugula and Carl go on an adventure as archaeologists; Carl spots a UFO on Mother's Day.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Entertainment</category>
-        <icon src="http://dshm.tmsimg.com/assets/p28255947_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006160000 +0000" stop="20251006163000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Donkey Hodie</title>
-        <desc lang="en">Donkey and Panda must find their inner brave to get Bob Dog's favorite ball back after they lose it in Spooky Shadow Swamp; Donkey must find hidden instruments.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Animated</category>
-        <icon src="http://dshm.tmsimg.com/assets/p19647832_b_h8_ae.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006163000 +0000" stop="20251006170000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Donkey Hodie</title>
-        <desc lang="en">Captain Donkey and her crew search for the Ruby Red Tater Treasure; Panda finds his favorite hoodie, but it no longer fits.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Animated</category>
-        <icon src="http://dshm.tmsimg.com/assets/p19647832_b_h8_ae.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006170000 +0000" stop="20251006173000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Elinor Wonders Why</title>
-        <desc lang="en">Elinor and her friends investigate the purpose of smell; Elinor is excited to explore with Camilla Dromedary, but Camilla is more interested in playing dress up.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p18560223_b_h10_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006173000 +0000" stop="20251006180000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Rosie's Rules</title>
-        <desc lang="en">Rosie helps Iggy get ready for his checkup; Rosie wants to play in the new park -- but it is a park for dogs.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Adventure</category>
-        <icon src="http://dshm.tmsimg.com/assets/p22744932_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006180000 +0000" stop="20251006183000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Rosie's Rules</title>
-        <desc lang="en">Rosie makes a dance party island in her backyard, but the flag she puts up causes confusion; Rosie decides to be the mascot for Javi's soccer team.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Adventure</category>
-        <icon src="http://dshm.tmsimg.com/assets/p22744933_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006183000 +0000" stop="20251006190000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Xavier Riddle and the Secret Museum</title>
-        <desc lang="en">Jesse Owens encourages Brad after he becomes frustrated with bowling; Ella Fitzgerald inspires a nervous Brad to go to a dance party.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Adventure</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p17371875_b_h8_ab.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006190000 +0000" stop="20251006193000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Molly of Denali</title>
-        <desc lang="en">Molly's camera breaks while she and Grandpa Nat are observing an active volcano; Molly and Tooey plan a bird-watching trip to celebrate winter solstice and Trini's birthday.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Adventure</category>
-        <category lang="en">Comedy</category>
-        <icon src="http://dshm.tmsimg.com/assets/p15558419_b_h10_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006193000 +0000" stop="20251006200000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Alma's Way</title>
-        <desc lang="en">Alma must learn a new way to celebrate when her family's Noche Buena traditions don't go as planned; Alma decides to make a do-over gift for Junior.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p20485755_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006200000 +0000" stop="20251006203000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Lyla in the Loop</title>
-        <desc lang="en">Lyla overcomes her fear of rock-climbing; a riddle game about everyday objects made by Black inventors.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006203000 +0000" stop="20251006210000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Weather Hunters</title>
-        <desc lang="en">The Hunters try to help an injured bird so it can join its friends migrating south for the winter.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p30635533_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006210000 +0000" stop="20251006213000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Odd Squad</title>
-        <desc lang="en">Odd Squad must stop a villain who is turning things into delicious puddings; Odd Squad's jubilee celebration is held up as the agents try to locate the missing Ozzie.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Entertainment</category>
-        <icon src="http://dshm.tmsimg.com/assets/p11086138_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006213000 +0000" stop="20251006220000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Skillsville</title>
-        <desc lang="en">Rae must remember the buttons to push to get the Beeples to Marshmallow Mountain Station when she takes a job as a train engineer; Dev needs to stay organized.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p29225700_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006220000 +0000" stop="20251006223000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Wild Kratts</title>
-        <desc lang="en">While looking at shapes in nature, the Wild Kratts discover a sphere shaped "rock" that turns out to be a 3-banded armadillo; Zach challenges everyone to a bowling match.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Science</category>
-        <category lang="en">Nature</category>
-        <category lang="en">Animals</category>
-        <category lang="en">Animated</category>
-        <icon src="http://dshm.tmsimg.com/assets/p24320987_b_h8_ag.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006223000 +0000" stop="20251006230000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Weather Hunters</title>
-        <desc lang="en">The Hunters try to help an injured bird so it can join its friends migrating south for the winter.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p30635533_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006230000 +0000" stop="20251006233000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Lyla in the Loop</title>
-        <desc lang="en">Lyla overcomes her fear of rock-climbing; a riddle game about everyday objects made by Black inventors.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006233000 +0000" stop="20251007000000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Arthur</title>
-        <desc lang="en">Fern's tale scares Arthur and the gang so much they become afraid of her; Binky tries to teach D.W. how to dance.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Animals</category>
-        <icon src="http://dshm.tmsimg.com/assets/p8636196_b_h10_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007000000 +0000" stop="20251007003000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Nature Cat</title>
-        <desc lang="en">Nature Cat and his pals find an injured baby fox while playing Wild Animal Rescue.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p12133555_b_h8_ak.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007003000 +0000" stop="20251007010000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Hero Elementary</title>
-        <desc lang="en">Sara and friends are excited to view the full moon, but they notice that half of the moon is missing; the crew flies to the moon to investigate.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p18198700_b_h10_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007010000 +0000" stop="20251007013000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Cyberchase</title>
-        <desc lang="en">The CyberSquad must scale a rocky cliff in less than three minutes.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Science</category>
-        <category lang="en">Technology</category>
-        <icon src="http://dshm.tmsimg.com/assets/p186055_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007013000 +0000" stop="20251007020000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Let's Go Luna!</title>
-        <desc lang="en">In Boston, Leo wants to attend school in a traditional institution because he is sure he will learn more there than at the Circo school.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p15942219_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007020000 +0000" stop="20251007023000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Rosie's Rules</title>
-        <desc lang="en">Rosie makes a dance party island in her backyard, but the flag she puts up causes confusion; Rosie decides to be the mascot for Javi's soccer team.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Educational</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Adventure</category>
-        <icon src="http://dshm.tmsimg.com/assets/p22744933_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007023000 +0000" stop="20251007030000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Xavier Riddle and the Secret Museum</title>
-        <desc lang="en">Jesse Owens encourages Brad after he becomes frustrated with bowling; Ella Fitzgerald inspires a nervous Brad to go to a dance party.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Adventure</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p17371875_b_h8_ab.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007030000 +0000" stop="20251007033000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Molly of Denali</title>
-        <desc lang="en">Molly's camera breaks while she and Grandpa Nat are observing an active volcano; Molly and Tooey plan a bird-watching trip to celebrate winter solstice and Trini's birthday.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Adventure</category>
-        <category lang="en">Comedy</category>
-        <icon src="http://dshm.tmsimg.com/assets/p15558419_b_h10_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007033000 +0000" stop="20251007040000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Alma's Way</title>
-        <desc lang="en">Alma must learn a new way to celebrate when her family's Noche Buena traditions don't go as planned; Alma decides to make a do-over gift for Junior.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p20485755_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007040000 +0000" stop="20251007043000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Lyla in the Loop</title>
-        <desc lang="en">Lyla overcomes her fear of rock-climbing; a riddle game about everyday objects made by Black inventors.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251007043000 +0000" stop="20251007050000 +0000" channel="PBS.KIDS.HD.us2">
-        <title lang="en">Weather Hunters</title>
-        <desc lang="en">The Hunters try to help an injured bird so it can join its friends migrating south for the winter.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Animated</category>
-        <category lang="en">Children</category>
-        <category lang="en">Entertainment</category>
-        <category lang="en">Educational</category>
-        <icon src="http://dshm.tmsimg.com/assets/p30635533_b_h8_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251011040000 +0000" stop="20251011060000 +0000" channel="FS2.Fox.Sports.2.HD.us2">
+        <title lang="en">Live: AFL Women's Premiership Football</title>
+        <desc lang="en">From Kinetic Stadium in Frankston East, Victoria, Australia.</desc>
+        <category lang="en">Sports</category>
+        <category lang="en">Australian rules football</category>
+        <icon src="http://dshm.tmsimg.com/assets/GNLZZGG00289J5N.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251007050000 +0000" stop="20251007053000 +0000" channel="PBS.KIDS.HD.us2">
         <title lang="en">Odd Squad</title>
@@ -3212,279 +2772,478 @@
         <category lang="en">Children</category>
         <icon src="http://dshm.tmsimg.com/assets/p30635533_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006050000 +0000" stop="20251006053000 +0000" channel="BUZZR.us2">
-        <title lang="en">Body Language</title>
-        <desc lang="en">Two teams, each consisting of a contestant and a celebrity guest, compete in a game of charades to guess clue words for a puzzle.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p597080_b_h10_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006053000 +0000" stop="20251006060000 +0000" channel="BUZZR.us2">
-        <title lang="en">Body Language</title>
-        <desc lang="en">Two teams, each consisting of a contestant and a celebrity guest, compete in a game of charades to guess clue words for a puzzle.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p597080_b_h10_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006060000 +0000" stop="20251006070000 +0000" channel="BUZZR.us2">
-        <title lang="en">Match Game Hollywood Squares Hour</title>
-        <desc lang="en">Contestants compete to win cash prizes in a mash-up of two game show formats, first by trying to match celebrities' answers to fill-in-the-blank questions and then by choosing to either agree or disagree with celebrities' answers to trivia questions.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p16550492_b_h10_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006070000 +0000" stop="20251006073000 +0000" channel="BUZZR.us2">
-        <title lang="en">Family Feud</title>
-        <desc lang="en">Two families, each composed of five members, compete against each other to guess the results of a survey of 100 people.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p383977_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006073000 +0000" stop="20251006080000 +0000" channel="BUZZR.us2">
-        <title lang="en">Family Feud</title>
-        <desc lang="en">Two families, each composed of five members, compete against each other to guess the results of a survey of 100 people.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p383977_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006080000 +0000" stop="20251006083000 +0000" channel="BUZZR.us2">
-        <title lang="en">To Tell the Truth</title>
-        <desc lang="en">Celebrity panelists quiz three contestants to identify the imposters.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p16194907_b_h10_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006083000 +0000" stop="20251006090000 +0000" channel="BUZZR.us2">
-        <title lang="en">To Tell the Truth</title>
-        <desc lang="en">Celebrity panelists quiz three contestants to identify the imposters.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p16194907_b_h10_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006090000 +0000" stop="20251006093000 +0000" channel="BUZZR.us2">
-        <title lang="en">What's My Line?</title>
-        <desc lang="en">Mystery guests Rex Reed, Elizabeth Ashley, Joan Bennett, Art Carney, Mary Stuart.</desc>
+    <programme start="20251010050000 +0000" stop="20251010053000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Odd Squad</title>
+        <desc lang="en">Olaf, Olive and Oren search for the magical Growing Potato when Otto starts shrinking; Ms. O explains how she became involved with the Odd Squad.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p529046_b_h11_ad.jpg?w=960&amp;h=540" />
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Entertainment</category>
+        <icon src="http://dshm.tmsimg.com/assets/p11086138_b_h8_ac.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006093000 +0000" stop="20251006100000 +0000" channel="BUZZR.us2">
-        <title lang="en">What's My Line?</title>
-        <desc lang="en">Mystery guests Betty White, Dizzy Gillespie, Lucie Arnaz, Jean Pierre Aumont, Marisa Pavan.</desc>
+    <programme start="20251010053000 +0000" stop="20251010060000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Skillsville</title>
+        <desc lang="en">Chef Cora thinks about ingredients needed to make food for the hungry Beeples; Dev takes a job as an air traffic controller.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p529046_b_h11_ad.jpg?w=960&amp;h=540" />
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p29225700_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006100000 +0000" stop="20251006103000 +0000" channel="BUZZR.us2">
-        <title lang="en">Paid Programming</title>
-        <desc lang="en">Paid programming.</desc>
-        <category lang="en">Shopping</category>
-        <category lang="en">Consumer</category>
-        <category lang="en">Variety</category>
-        <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006103000 +0000" stop="20251006110000 +0000" channel="BUZZR.us2">
-        <title lang="en">NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-        <desc lang="en">Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-        <category lang="en">Consumer</category>
-        <icon src="http://dshm.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006110000 +0000" stop="20251006113000 +0000" channel="BUZZR.us2">
-        <title lang="en">Through the Bible With Les Feldick</title>
-        <desc lang="en">Les Feldick was an Oklahoma farmer and rancher with a special gift for teaching the Bible. His simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
-        <category lang="en">Religious</category>
-        <icon src="http://dshm.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006113000 +0000" stop="20251006120000 +0000" channel="BUZZR.us2">
-        <title lang="en">Paid Programming</title>
-        <desc lang="en">Paid programming.</desc>
-        <category lang="en">Shopping</category>
-        <category lang="en">Consumer</category>
-        <category lang="en">Variety</category>
-        <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006120000 +0000" stop="20251006123000 +0000" channel="BUZZR.us2">
-        <title lang="en">Paid Programming</title>
-        <desc lang="en">Paid programming.</desc>
-        <category lang="en">Shopping</category>
-        <category lang="en">Consumer</category>
-        <category lang="en">Variety</category>
-        <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006123000 +0000" stop="20251006130000 +0000" channel="BUZZR.us2">
-        <title lang="en">Card Sharks</title>
-        <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p217332_b_h10_af.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006130000 +0000" stop="20251006133000 +0000" channel="BUZZR.us2">
-        <title lang="en">Card Sharks</title>
-        <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p217332_b_h10_af.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006133000 +0000" stop="20251006140000 +0000" channel="BUZZR.us2">
-        <title lang="en">Let's Make a Deal</title>
-        <desc lang="en">Costumed contestants compete for cash and prizes.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p184885_b_h10_ab.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006140000 +0000" stop="20251006143000 +0000" channel="BUZZR.us2">
-        <title lang="en">Let's Make a Deal</title>
-        <desc lang="en">Costumed contestants compete for prizes.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p429072_b_h8_ac.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006143000 +0000" stop="20251006150000 +0000" channel="BUZZR.us2">
-        <title lang="en">Supermarket Sweep</title>
-        <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p496506_b_h10_ab.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006150000 +0000" stop="20251006153000 +0000" channel="BUZZR.us2">
-        <title lang="en">Supermarket Sweep</title>
-        <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p496506_b_h10_ab.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006153000 +0000" stop="20251006160000 +0000" channel="BUZZR.us2">
-        <title lang="en">Supermarket Sweep</title>
-        <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p496506_b_h10_ab.jpg?w=960&amp;h=540" />
-        </programme>
-    <programme start="20251006160000 +0000" stop="20251006163000 +0000" channel="BUZZR.us2">
-        <title lang="en">Super Password</title>
-        <desc lang="en">Nancy Stafford and Leonard Frey.</desc>
+    <programme start="20251010060000 +0000" stop="20251010063000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Wild Kratts</title>
+        <desc lang="en">While investigating exoskeletons, the hercules beetle accidentally gets enlarged.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Science</category>
+        <category lang="en">Nature</category>
+        <category lang="en">Animals</category>
+        <category lang="en">Animated</category>
+        <icon src="http://dshm.tmsimg.com/assets/p14179168_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006163000 +0000" stop="20251006170000 +0000" channel="BUZZR.us2">
-        <title lang="en">Super Password</title>
-        <desc lang="en">Nancy Stafford and Leonard Frey.</desc>
+    <programme start="20251010063000 +0000" stop="20251010070000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Weather Hunters</title>
+        <desc lang="en">The Hunters head to a nearby mountain to learn about snow.</desc>
         <category lang="en">Series</category>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+        <category lang="en">Animated</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Children</category>
+        <icon src="http://dshm.tmsimg.com/assets/p30635533_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006170000 +0000" stop="20251006173000 +0000" channel="BUZZR.us2">
-        <title lang="en">Classic Concentration</title>
-        <desc lang="en">Two contestants match prizes in order to uncover and solve a picture puzzle for the chance to win a car in the "Winner's Circle.".</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p220427_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010070000 +0000" stop="20251010073000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Lyla in the Loop</title>
+        <desc lang="en">Liana and Lyla put together a puzzle with more than 1,000 pieces; Lyla and Luke construct a train using household materials.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006173000 +0000" stop="20251006180000 +0000" channel="BUZZR.us2">
-        <title lang="en">Classic Concentration</title>
-        <desc lang="en">Two contestants match prizes in order to uncover and solve a picture puzzle for the chance to win a car in the "Winner's Circle.".</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p220427_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010073000 +0000" stop="20251010080000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Arthur</title>
+        <desc lang="en">Muffy learns about her great-great grandmother; Arthur doubts a decision he makes during a baseball game.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Animals</category>
+        <icon src="http://dshm.tmsimg.com/assets/p10918009_b_h10_ab.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006180000 +0000" stop="20251006183000 +0000" channel="BUZZR.us2">
-        <title lang="en">Classic Concentration</title>
-        <desc lang="en">Two contestants match prizes in order to uncover and solve a picture puzzle for the chance to win a car in the "Winner's Circle.".</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p220427_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010080000 +0000" stop="20251010083000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Nature Cat</title>
+        <desc lang="en">The gang replants their favorite sunflower; after the gang gets lost during a treasure hunt, Nature Cat advises them to follow mossy trees home.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p12133555_b_h8_ak.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006183000 +0000" stop="20251006190000 +0000" channel="BUZZR.us2">
-        <title lang="en">Classic Concentration</title>
-        <desc lang="en">Two contestants match prizes in order to uncover and solve a picture puzzle for the chance to win a car in the "Winner's Circle.".</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p220427_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010083000 +0000" stop="20251010090000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Hero Elementary</title>
+        <desc lang="en">The Sparks' crew try to find a way to restore the lake back to its original state after a super student accidentally freezes it; a plant grows out of control.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p18198700_b_h10_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006190000 +0000" stop="20251006200000 +0000" channel="BUZZR.us2">
-        <title lang="en">The Price Is Right</title>
-        <desc lang="en">"Come on down!" "The Price Is Right" -- hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown." The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p31082639_b_h8_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010090000 +0000" stop="20251010093000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Cyberchase</title>
+        <desc lang="en">The children and Digit must rescue the mayor when Hacker takes over his castle.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Science</category>
+        <category lang="en">Technology</category>
+        <icon src="http://dshm.tmsimg.com/assets/p186055_b_h8_ac.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006200000 +0000" stop="20251006210000 +0000" channel="BUZZR.us2">
-        <title lang="en">The Price Is Right</title>
-        <desc lang="en">"Come on down!" "The Price Is Right" -- hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown." The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p31082639_b_h8_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010093000 +0000" stop="20251010100000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Let's Go Luna!</title>
+        <desc lang="en">The kids search for a happy kind of music called Benga; Luna guides Andy on a photo safari.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p15942220_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006210000 +0000" stop="20251006220000 +0000" channel="BUZZR.us2">
-        <title lang="en">The Price Is Right</title>
-        <desc lang="en">"Come on down!" "The Price Is Right" -- hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown." The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p31082639_b_h8_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010100000 +0000" stop="20251010103000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Clifford the Big Red Dog</title>
+        <desc lang="en">The Doggy Air Rangers come to the rescue when a kite, along with Bailey's stuffed toy, Jellybean, fly away; Pablo's dog Hero springs into action when his comic books get into trouble.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p186057_b_h10_aj.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006220000 +0000" stop="20251006223000 +0000" channel="BUZZR.us2">
-        <title lang="en">Match Game</title>
-        <desc lang="en">Gene Rayburn hosts this comedy-game show hybrid in which contestants try to match answers given by celebrities to humorous, and often risque, fill-in-the-blank questions. The contestant with the most points at the end of the game advances to play the bonus round, in which the contestant has a chance to win thousands of dollars, with the actual amount dependent on the rules in place at the time of the episode.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p16781649_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010103000 +0000" stop="20251010110000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Sesame Street</title>
+        <desc lang="en">It's Opposite Day on Sesame Street and everyone's doing things that are as different as they can be; Bert and Ernie notice that everyone's having fun doing opposites and realize they like so many opposite things too.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Entertainment</category>
+        <icon src="http://dshm.tmsimg.com/assets/p184032_b_h8_ag.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006223000 +0000" stop="20251006230000 +0000" channel="BUZZR.us2">
-        <title lang="en">Match Game</title>
-        <desc lang="en">Gene Rayburn hosts this comedy-game show hybrid in which contestants try to match answers given by celebrities to humorous, and often risque, fill-in-the-blank questions. The contestant with the most points at the end of the game advances to play the bonus round, in which the contestant has a chance to win thousands of dollars, with the actual amount dependent on the rules in place at the time of the episode.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p16781649_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010110000 +0000" stop="20251010113000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Pinkalicious &amp; Peterrific</title>
+        <desc lang="en">With help from Mommy, Pinkalicious and Peter make a homemade go-kart called the Sparkle Speedster; Pinkalicious and friends search for ways to make the merry-go-round a little more exciting.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Animated</category>
+        <icon src="http://dshm.tmsimg.com/assets/p17841350_b_h10_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006230000 +0000" stop="20251006233000 +0000" channel="BUZZR.us2">
-        <title lang="en">Match Game</title>
-        <desc lang="en">Gene Rayburn hosts this comedy-game show hybrid in which contestants try to match answers given by celebrities to humorous, and often risque, fill-in-the-blank questions. The contestant with the most points at the end of the game advances to play the bonus round, in which the contestant has a chance to win thousands of dollars, with the actual amount dependent on the rules in place at the time of the episode.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p16781649_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010113000 +0000" stop="20251010120000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Curious George</title>
+        <desc lang="en">George helps a homing pigeon; George helps a woman with her packages.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p186074_b_h8_bo.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006233000 +0000" stop="20251007000000 +0000" channel="BUZZR.us2">
-        <title lang="en">Match Game</title>
-        <desc lang="en">Gene Rayburn hosts this comedy-game show hybrid in which contestants try to match answers given by celebrities to humorous, and often risque, fill-in-the-blank questions. The contestant with the most points at the end of the game advances to play the bonus round, in which the contestant has a chance to win thousands of dollars, with the actual amount dependent on the rules in place at the time of the episode.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p16781649_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010120000 +0000" stop="20251010123000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Sesame Street</title>
+        <desc lang="en">Lily, Qui and Ji-Young celebrate Lunar New Year on Sesame Street.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Entertainment</category>
+        <icon src="http://dshm.tmsimg.com/assets/p184032_b_h8_ag.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007000000 +0000" stop="20251007003000 +0000" channel="BUZZR.us2">
-        <title lang="en">Tattletales</title>
-        <desc lang="en">Celebrity couples answer questions to win money for the audience.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p13922097_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010123000 +0000" stop="20251010130000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Milo</title>
+        <desc lang="en">Music makers Milo, Lofty and Lark are excited to play at the town festival, replacing Dave and The Dodgers with their own band; however, writing their own song is harder than it sounds.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Adventure</category>
+        <category lang="en">Fantasy</category>
+        <icon src="http://dshm.tmsimg.com/assets/p19910995_b_h10_ag.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007003000 +0000" stop="20251007010000 +0000" channel="BUZZR.us2">
-        <title lang="en">Tattletales</title>
-        <desc lang="en">Celebrity couples answer questions to win money for the audience.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p13922097_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010130000 +0000" stop="20251010133000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Work It Out Wombats!</title>
+        <desc lang="en">The Treeborhood is alive with sound patterns; Zadie loses one of Louisa's toys.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Adventure</category>
+        <icon src="http://dshm.tmsimg.com/assets/p23615398_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007010000 +0000" stop="20251007013000 +0000" channel="BUZZR.us2">
-        <title lang="en">Tattletales</title>
-        <desc lang="en">Celebrity couples answer questions to win money for the audience.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p13922097_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010133000 +0000" stop="20251010140000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Work It Out Wombats!</title>
+        <desc lang="en">Zadie tries to help Zeke overcome his fear of riding a two-wheeler; the Wombats design a gift for baby fish.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Adventure</category>
+        <icon src="http://dshm.tmsimg.com/assets/p23615398_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007013000 +0000" stop="20251007020000 +0000" channel="BUZZR.us2">
-        <title lang="en">Card Sharks</title>
-        <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p217332_b_h10_af.jpg?w=960&amp;h=540" />
+    <programme start="20251010140000 +0000" stop="20251010143000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Daniel Tiger's Neighborhood</title>
+        <desc lang="en">Daniel makes up super adventures while bringing dad his lunch; Daniel and Miss Elaina pretend a big cardboard box is a space ship and jungle boat.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p9175160_b_h8_ab.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007020000 +0000" stop="20251007023000 +0000" channel="BUZZR.us2">
-        <title lang="en">Card Sharks</title>
-        <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p217332_b_h10_af.jpg?w=960&amp;h=540" />
+    <programme start="20251010143000 +0000" stop="20251010150000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Daniel Tiger's Neighborhood</title>
+        <desc lang="en">Daniel helps Grandpere clean up after he runs into his house with dirty shoes; O accidentally breaks Miss Elaina's robot.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p27622858_b_h8_ac.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007023000 +0000" stop="20251007030000 +0000" channel="BUZZR.us2">
-        <title lang="en">Card Sharks</title>
-        <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p217332_b_h10_af.jpg?w=960&amp;h=540" />
+    <programme start="20251010150000 +0000" stop="20251010153000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Carl the Collector</title>
+        <desc lang="en">Nico is tired of being mistaken for her twin sister; Carl is upset when Nico breaks the Lint Dinosaur Monday rules and makes a Lint Monster instead.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Entertainment</category>
+        <icon src="http://dshm.tmsimg.com/assets/p28255947_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007030000 +0000" stop="20251007033000 +0000" channel="BUZZR.us2">
-        <title lang="en">Press Your Luck</title>
-        <desc lang="en">Contestants try to answer trivia answers correctly to collect spins on a gameboard, where they can win cash and prizes. Unless, of course, they land on a "Whammy," which takes away the player's loot. The contestant with the most accumulated cash and prizes at the end of the show is the winner.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p184774_b_h8_ab.jpg?w=960&amp;h=540" />
+    <programme start="20251010153000 +0000" stop="20251010160000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Carl the Collector</title>
+        <desc lang="en">Carl turns to his friends to help him organize his plushie collection; Carl loses his bouncy ball collection.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Entertainment</category>
+        <icon src="http://dshm.tmsimg.com/assets/p28255947_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007033000 +0000" stop="20251007040000 +0000" channel="BUZZR.us2">
-        <title lang="en">Press Your Luck</title>
-        <desc lang="en">Contestants try to answer trivia answers correctly to collect spins on a gameboard, where they can win cash and prizes. Unless, of course, they land on a "Whammy," which takes away the player's loot. The contestant with the most accumulated cash and prizes at the end of the show is the winner.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p184774_b_h8_ab.jpg?w=960&amp;h=540" />
+    <programme start="20251010160000 +0000" stop="20251010163000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Donkey Hodie</title>
+        <desc lang="en">Donkey and Panda must complete hard challenges to earn badges for Try Scouts; Donkey and Duck Duck teach Bob Dog a new game.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Animated</category>
+        <icon src="http://dshm.tmsimg.com/assets/p19647832_b_h8_ae.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007040000 +0000" stop="20251007043000 +0000" channel="BUZZR.us2">
-        <title lang="en">Press Your Luck</title>
-        <desc lang="en">Contestants try to answer trivia answers correctly to collect spins on a gameboard, where they can win cash and prizes. Unless, of course, they land on a "Whammy," which takes away the player's loot. The contestant with the most accumulated cash and prizes at the end of the show is the winner.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p184774_b_h8_ab.jpg?w=960&amp;h=540" />
+    <programme start="20251010163000 +0000" stop="20251010170000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Donkey Hodie</title>
+        <desc lang="en">Donkey and Panda must find their inner brave to get Bob Dog's favorite ball back after they lose it in Spooky Shadow Swamp; Donkey must find hidden instruments.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Animated</category>
+        <icon src="http://dshm.tmsimg.com/assets/p19647832_b_h8_ae.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007043000 +0000" stop="20251007050000 +0000" channel="BUZZR.us2">
-        <title lang="en">Body Language</title>
-        <desc lang="en">Two teams, each consisting of a contestant and a celebrity guest, compete in a game of charades to guess clue words for a puzzle.</desc>
-        <category lang="en">Game show</category>
-        <icon src="http://dshm.tmsimg.com/assets/p597080_b_h10_ac.jpg?w=960&amp;h=540" />
+    <programme start="20251010170000 +0000" stop="20251010173000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Elinor Wonders Why</title>
+        <desc lang="en">Honeybees disturb Elinor, Art, Olive and Koa during their picnic in the forest; the kids work together to move their dirt bike path so turtles can get to the water.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p18560223_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010173000 +0000" stop="20251010180000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Rosie's Rules</title>
+        <desc lang="en">Rosie, Iggy and Crystal make a movie; Mom finds a photo from the day they got Gatita.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Adventure</category>
+        <icon src="http://dshm.tmsimg.com/assets/p22744932_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010180000 +0000" stop="20251010183000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Rosie's Rules</title>
+        <desc lang="en">Iggy wants to see the garbage truck, but Rosie doesn't know how to get it to come to their house; Rosie attempts to bring nature inside.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Adventure</category>
+        <icon src="http://dshm.tmsimg.com/assets/p22744932_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010183000 +0000" stop="20251010190000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Xavier Riddle and the Secret Museum</title>
+        <desc lang="en">Louis Braille shows Brad there are many ways to read; Zaha Hadid encourages Xavier, Yadina and Brad to build their treehouse in their own unique way.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Adventure</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p17351909_b_h8_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010190000 +0000" stop="20251010193000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Molly of Denali</title>
+        <desc lang="en">A family of beavers builds a dam that accidentally diverts water into Trini's garden, threatening her strawberries; Trini is determined to earn the Night Watchers Badge.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Adventure</category>
+        <category lang="en">Comedy</category>
+        <icon src="http://dshm.tmsimg.com/assets/p15558419_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010193000 +0000" stop="20251010200000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Alma's Way</title>
+        <desc lang="en">Alma searches for the best way to greet others; Alma wants to figure out why Junior is shy around his new sitter.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p20485752_b_h8_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010200000 +0000" stop="20251010203000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Lyla in the Loop</title>
+        <desc lang="en">Lyla asks customers for their leftover pumpkins, but then gets way too many; Lyla and Luke put their sisters, Liana and Louisa, through a babysitting test.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010203000 +0000" stop="20251010210000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Weather Hunters</title>
+        <desc lang="en">It's an exciting day for Lily and her family when they move into their new house.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Children</category>
+        <icon src="http://dshm.tmsimg.com/assets/p30635533_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010210000 +0000" stop="20251010213000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Odd Squad</title>
+        <desc lang="en">Ozzie is torn between solving oddness or helping Opie, who has been promoted to Head of the Department of Help; Ozzie has Bad-luck-itis.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Entertainment</category>
+        <icon src="http://dshm.tmsimg.com/assets/p11086138_b_h8_ac.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010213000 +0000" stop="20251010220000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Skillsville</title>
+        <desc lang="en">Chef Cora thinks about ingredients needed to make food for the hungry Beeples; Dev takes a job as an air traffic controller.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p29225700_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010220000 +0000" stop="20251010223000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Wild Kratts</title>
+        <desc lang="en">While looking at shapes in nature, the Wild Kratts discover a sphere shaped "rock" that turns out to be a 3-banded armadillo; Zach challenges everyone to a bowling match.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Science</category>
+        <category lang="en">Nature</category>
+        <category lang="en">Animals</category>
+        <category lang="en">Animated</category>
+        <icon src="http://dshm.tmsimg.com/assets/p24320987_b_h8_ag.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010223000 +0000" stop="20251010230000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Weather Hunters</title>
+        <desc lang="en">It's an exciting day for Lily and her family when they move into their new house.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Children</category>
+        <icon src="http://dshm.tmsimg.com/assets/p30635533_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010230000 +0000" stop="20251010233000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Lyla in the Loop</title>
+        <desc lang="en">Lyla asks customers for their leftover pumpkins, but then gets way too many; Lyla and Luke put their sisters, Liana and Louisa, through a babysitting test.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010233000 +0000" stop="20251011000000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Arthur</title>
+        <desc lang="en">Buster's Uncle Bob tells him a spooky bedtime story about an encounter with a mysterious creature called the lycanbunny; Cheikh is worried that if he and his family become American citizens, then they will have to abandon their Senegalese culture.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Animals</category>
+        <icon src="http://dshm.tmsimg.com/assets/p17235638_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011000000 +0000" stop="20251011010000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Curious George: A Halloween Boo Fest</title>
+        <desc lang="en">Bill tells George and Allie a spooky tale about the Legend of No Noggin; George needs to plan a costume good enough to win the contest at the Boo Festival.</desc>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Holiday</category>
+        <category lang="en">Special</category>
+        <category lang="en">Entertainment</category>
+        <icon src="http://dshm.tmsimg.com/assets/p10149513_b_h8_am.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011010000 +0000" stop="20251011013000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Cyberchase</title>
+        <desc lang="en">The CyberSquad tags along as the Northern Frontier ducks migrate to Restoria, helping the flock avoid numerous hazards along the way.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Science</category>
+        <category lang="en">Technology</category>
+        <icon src="http://dshm.tmsimg.com/assets/p21262780_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011013000 +0000" stop="20251011020000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Let's Go Luna!</title>
+        <desc lang="en">Carmen finds a mariachi band to fill in when the Circo orchestra gets the hiccups; Leo, Carmen and Andy help return a lost cocoa bean.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p15942220_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011020000 +0000" stop="20251011023000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Rosie's Rules</title>
+        <desc lang="en">Iggy wants to see the garbage truck, but Rosie doesn't know how to get it to come to their house; Rosie attempts to bring nature inside.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Adventure</category>
+        <icon src="http://dshm.tmsimg.com/assets/p22744932_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011023000 +0000" stop="20251011030000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Xavier Riddle and the Secret Museum</title>
+        <desc lang="en">Louis Braille shows Brad there are many ways to read; Zaha Hadid encourages Xavier, Yadina and Brad to build their treehouse in their own unique way.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Adventure</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p17351909_b_h8_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011030000 +0000" stop="20251011033000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Molly of Denali</title>
+        <desc lang="en">A family of beavers builds a dam that accidentally diverts water into Trini's garden, threatening her strawberries; Trini is determined to earn the Night Watchers Badge.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Adventure</category>
+        <category lang="en">Comedy</category>
+        <icon src="http://dshm.tmsimg.com/assets/p15558419_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011033000 +0000" stop="20251011040000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Alma's Way</title>
+        <desc lang="en">Alma searches for the best way to greet others; Alma wants to figure out why Junior is shy around his new sitter.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p20485752_b_h8_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011040000 +0000" stop="20251011043000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Lyla in the Loop</title>
+        <desc lang="en">Lyla asks customers for their leftover pumpkins, but then gets way too many; Lyla and Luke put their sisters, Liana and Louisa, through a babysitting test.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Children</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <icon src="http://dshm.tmsimg.com/assets/p26268938_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011043000 +0000" stop="20251011050000 +0000" channel="PBS.KIDS.HD.us2">
+        <title lang="en">Weather Hunters</title>
+        <desc lang="en">It's an exciting day for Lily and her family when they move into their new house.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Animated</category>
+        <category lang="en">Entertainment</category>
+        <category lang="en">Educational</category>
+        <category lang="en">Children</category>
+        <icon src="http://dshm.tmsimg.com/assets/p30635533_b_h8_aa.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251007050000 +0000" stop="20251007053000 +0000" channel="BUZZR.us2">
         <title lang="en">Body Language</title>
@@ -4310,163 +4069,283 @@
         <category lang="en">Game show</category>
         <icon src="http://dshm.tmsimg.com/assets/p597080_b_h10_ac.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006050000 +0000" stop="20251006060000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Dateline</title>
-        <desc lang="en">A detective comes face to face with a serial killer when she promises to get justice for the mother of a victim whose body turns up at an Anaheim trash facility.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Newsmagazine</category>
-        <category lang="en">Documentary</category>
-        <icon src="http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010050000 +0000" stop="20251010053000 +0000" channel="BUZZR.us2">
+        <title lang="en">Body Language</title>
+        <desc lang="en">Two teams, each consisting of a contestant and a celebrity guest, compete in a game of charades to guess clue words for a puzzle.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p597080_b_h10_ac.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006060000 +0000" stop="20251006070000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Dateline</title>
-        <desc lang="en">The deadly 2020 shooting at U.S. District Court Judge Esther Salas' home, which killed her son and critically injured her husband.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Newsmagazine</category>
-        <category lang="en">Documentary</category>
-        <icon src="http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010053000 +0000" stop="20251010060000 +0000" channel="BUZZR.us2">
+        <title lang="en">Body Language</title>
+        <desc lang="en">Two teams, each consisting of a contestant and a celebrity guest, compete in a game of charades to guess clue words for a puzzle.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p597080_b_h10_ac.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006070000 +0000" stop="20251006080000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Dateline</title>
-        <desc lang="en">Two sisters determined to fulfill a promise investigate the mystery surrounding their mother's death.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">Newsmagazine</category>
-        <category lang="en">Documentary</category>
-        <icon src="http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010060000 +0000" stop="20251010070000 +0000" channel="BUZZR.us2">
+        <title lang="en">Match Game Hollywood Squares Hour</title>
+        <desc lang="en">Contestants compete to win cash prizes in a mash-up of two game show formats, first by trying to match celebrities' answers to fill-in-the-blank questions and then by choosing to either agree or disagree with celebrities' answers to trivia questions.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p16550492_b_h10_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006080000 +0000" stop="20251006090000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">The Briefing with Jen Psaki: Weekend</title>
-        <desc lang="en">Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <icon src="http://dshm.tmsimg.com/assets/p30145786_b_h8_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010070000 +0000" stop="20251010073000 +0000" channel="BUZZR.us2">
+        <title lang="en">Family Feud</title>
+        <desc lang="en">Two families, each composed of five members, compete against each other to guess the results of a survey of 100 people.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p383977_b_h8_ac.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006090000 +0000" stop="20251006100000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: Way Too Early With Ali Vitali</title>
-        <desc lang="en">Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <icon src="http://dshm.tmsimg.com/assets/p29075279_b_h8_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010073000 +0000" stop="20251010080000 +0000" channel="BUZZR.us2">
+        <title lang="en">Family Feud</title>
+        <desc lang="en">Two families, each composed of five members, compete against each other to guess the results of a survey of 100 people.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p383977_b_h8_ac.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006100000 +0000" stop="20251006140000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: Morning Joe</title>
-        <desc lang="en">Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <category lang="en">Interview</category>
-        <category lang="en">Politics</category>
-        <category lang="en">Public affairs</category>
-        <icon src="http://dshm.tmsimg.com/assets/p186220_b_h8_ae.jpg?w=960&amp;h=540" />
+    <programme start="20251010080000 +0000" stop="20251010083000 +0000" channel="BUZZR.us2">
+        <title lang="en">To Tell the Truth</title>
+        <desc lang="en">Celebrity panelists quiz three contestants to identify the imposters.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p16194907_b_h10_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006140000 +0000" stop="20251006150000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: Ana Cabrera Reports</title>
-        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <category lang="en">Interview</category>
-        <category lang="en">Politics</category>
-        <category lang="en">Public affairs</category>
-        <icon src="http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg?w=960&amp;h=540" />
+    <programme start="20251010083000 +0000" stop="20251010090000 +0000" channel="BUZZR.us2">
+        <title lang="en">To Tell the Truth</title>
+        <desc lang="en">Celebrity panelists quiz three contestants to identify the imposters.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p16194907_b_h10_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006150000 +0000" stop="20251006160000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: Ana Cabrera Reports</title>
-        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <programme start="20251010090000 +0000" stop="20251010093000 +0000" channel="BUZZR.us2">
+        <title lang="en">What's My Line?</title>
+        <desc lang="en">Mystery guests Roger Moore, Garry Moore, Martin Gabel, Betsy Palmer, Frank Sinatra Jr.</desc>
         <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <category lang="en">Interview</category>
-        <category lang="en">Politics</category>
-        <category lang="en">Public affairs</category>
-        <icon src="http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg?w=960&amp;h=540" />
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p529046_b_h11_ad.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006160000 +0000" stop="20251006170000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: Chris Jansing Reports</title>
-        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <programme start="20251010093000 +0000" stop="20251010100000 +0000" channel="BUZZR.us2">
+        <title lang="en">What's My Line?</title>
+        <desc lang="en">Mystery guests Skitch Henderson, Alice Playten, Phil Foster, Kevin McCarthy, Billy Taylor.</desc>
         <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <icon src="http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg?w=960&amp;h=540" />
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p529046_b_h11_ad.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006170000 +0000" stop="20251006180000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: Chris Jansing Reports</title>
-        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <icon src="http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg?w=960&amp;h=540" />
+    <programme start="20251010100000 +0000" stop="20251010103000 +0000" channel="BUZZR.us2">
+        <title lang="en">Paid Programming</title>
+        <desc lang="en">Paid programming.</desc>
+        <category lang="en">Shopping</category>
+        <category lang="en">Consumer</category>
+        <category lang="en">Variety</category>
+        <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006180000 +0000" stop="20251006190000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: Katy Tur Reports</title>
-        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <icon src="http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg?w=960&amp;h=540" />
+    <programme start="20251010103000 +0000" stop="20251010110000 +0000" channel="BUZZR.us2">
+        <title lang="en">Best in Class Hearing Aid</title>
+        <desc lang="en">Experience crystal clear hearing with Audien Atom 1 and you could have clear hearing all day long. So whether you struggle with hearing the TV or keeping up with conversations the Atom 1 has you covered.</desc>
+        <category lang="en">Consumer</category>
+        <icon src="http://dshm.tmsimg.com/assets/p28296213_st_h10_aa.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006190000 +0000" stop="20251006200000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: Katy Tur Reports</title>
-        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <icon src="http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg?w=960&amp;h=540" />
+    <programme start="20251010110000 +0000" stop="20251010113000 +0000" channel="BUZZR.us2">
+        <title lang="en">Through the Bible With Les Feldick</title>
+        <desc lang="en">Les Feldick was an Oklahoma farmer and rancher with a special gift for teaching the Bible. His simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+        <category lang="en">Religious</category>
+        <icon src="http://dshm.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006200000 +0000" stop="20251006220000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: Deadline: White House</title>
-        <desc lang="en">In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <category lang="en">Politics</category>
-        <icon src="http://dshm.tmsimg.com/assets/p14124364_b_h8_ae.jpg?w=960&amp;h=540" />
+    <programme start="20251010113000 +0000" stop="20251010120000 +0000" channel="BUZZR.us2">
+        <title lang="en">Paid Programming</title>
+        <desc lang="en">Paid programming.</desc>
+        <category lang="en">Shopping</category>
+        <category lang="en">Consumer</category>
+        <category lang="en">Variety</category>
+        <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006220000 +0000" stop="20251006230000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: The Beat With Ari Melber</title>
-        <desc lang="en">Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <icon src="http://dshm.tmsimg.com/assets/p28947784_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010120000 +0000" stop="20251010123000 +0000" channel="BUZZR.us2">
+        <title lang="en">Paid Programming</title>
+        <desc lang="en">Paid programming.</desc>
+        <category lang="en">Shopping</category>
+        <category lang="en">Consumer</category>
+        <category lang="en">Variety</category>
+        <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251006230000 +0000" stop="20251007010000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: The Weeknight</title>
-        <desc lang="en">Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <icon src="http://dshm.tmsimg.com/assets/p29964114_b_h8_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010123000 +0000" stop="20251010130000 +0000" channel="BUZZR.us2">
+        <title lang="en">Card Sharks</title>
+        <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p217332_b_h10_af.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007010000 +0000" stop="20251007020000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: The Rachel Maddow Show</title>
-        <desc lang="en">Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <category lang="en">Interview</category>
-        <category lang="en">Politics</category>
-        <category lang="en">Public affairs</category>
-        <icon src="http://dshm.tmsimg.com/assets/p28950125_b_h10_aa.jpg?w=960&amp;h=540" />
+    <programme start="20251010130000 +0000" stop="20251010133000 +0000" channel="BUZZR.us2">
+        <title lang="en">Card Sharks</title>
+        <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p217332_b_h10_af.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007020000 +0000" stop="20251007030000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: The Last Word With Lawrence O'Donnell</title>
-        <desc lang="en">In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <category lang="en">Interview</category>
-        <category lang="en">Politics</category>
-        <category lang="en">Public affairs</category>
-        <icon src="http://dshm.tmsimg.com/assets/p8306876_b_h8_ae.jpg?w=960&amp;h=540" />
+    <programme start="20251010133000 +0000" stop="20251010140000 +0000" channel="BUZZR.us2">
+        <title lang="en">Let's Make a Deal</title>
+        <desc lang="en">Costumed contestants compete for prizes.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p429072_b_h8_ac.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007030000 +0000" stop="20251007040000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">Live: The 11th Hour With Stephanie Ruhle</title>
-        <desc lang="en">Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
-        <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <category lang="en">Politics</category>
-        <category lang="en">Interview</category>
-        <category lang="en">Public affairs</category>
-        <icon src="http://dshm.tmsimg.com/assets/p21617497_b_h8_ag.jpg?w=960&amp;h=540" />
+    <programme start="20251010140000 +0000" stop="20251010143000 +0000" channel="BUZZR.us2">
+        <title lang="en">Let's Make a Deal</title>
+        <desc lang="en">Costumed contestants compete for prizes.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p429072_b_h8_ac.jpg?w=960&amp;h=540" />
         </programme>
-    <programme start="20251007040000 +0000" stop="20251007050000 +0000" channel="MSNBC.HD.us2">
-        <title lang="en">The Rachel Maddow Show</title>
-        <desc lang="en">Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs and reveals the importance of transparency and accountability from our leaders.</desc>
+    <programme start="20251010143000 +0000" stop="20251010150000 +0000" channel="BUZZR.us2">
+        <title lang="en">Supermarket Sweep</title>
+        <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p496506_b_h10_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010150000 +0000" stop="20251010153000 +0000" channel="BUZZR.us2">
+        <title lang="en">Supermarket Sweep</title>
+        <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p496506_b_h10_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010153000 +0000" stop="20251010160000 +0000" channel="BUZZR.us2">
+        <title lang="en">Supermarket Sweep</title>
+        <desc lang="en">Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to its cart wins.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p496506_b_h10_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010160000 +0000" stop="20251010163000 +0000" channel="BUZZR.us2">
+        <title lang="en">Super Password</title>
+        <desc lang="en">Shelley Smith and Stephen Furst.</desc>
         <category lang="en">Series</category>
-        <category lang="en">News</category>
-        <category lang="en">Interview</category>
-        <category lang="en">Politics</category>
-        <category lang="en">Public affairs</category>
-        <icon src="http://dshm.tmsimg.com/assets/p28950125_b_h10_aa.jpg?w=960&amp;h=540" />
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+        </programme>
+    <programme start="20251010163000 +0000" stop="20251010170000 +0000" channel="BUZZR.us2">
+        <title lang="en">Super Password</title>
+        <desc lang="en">Shelley Smith and Stephen Furst.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+        </programme>
+    <programme start="20251010170000 +0000" stop="20251010173000 +0000" channel="BUZZR.us2">
+        <title lang="en">Classic Concentration</title>
+        <desc lang="en">Two contestants match prizes in order to uncover and solve a picture puzzle for the chance to win a car in the "Winner's Circle.".</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p220427_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010173000 +0000" stop="20251010180000 +0000" channel="BUZZR.us2">
+        <title lang="en">Classic Concentration</title>
+        <desc lang="en">Two contestants match prizes in order to uncover and solve a picture puzzle for the chance to win a car in the "Winner's Circle.".</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p220427_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010180000 +0000" stop="20251010183000 +0000" channel="BUZZR.us2">
+        <title lang="en">Classic Concentration</title>
+        <desc lang="en">Two contestants match prizes in order to uncover and solve a picture puzzle for the chance to win a car in the "Winner's Circle.".</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p220427_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010183000 +0000" stop="20251010190000 +0000" channel="BUZZR.us2">
+        <title lang="en">Classic Concentration</title>
+        <desc lang="en">Two contestants match prizes in order to uncover and solve a picture puzzle for the chance to win a car in the "Winner's Circle.".</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p220427_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010190000 +0000" stop="20251010200000 +0000" channel="BUZZR.us2">
+        <title lang="en">The Price Is Right</title>
+        <desc lang="en">"Come on down!" "The Price Is Right" -- hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown." The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p31082639_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010200000 +0000" stop="20251010210000 +0000" channel="BUZZR.us2">
+        <title lang="en">The Price Is Right</title>
+        <desc lang="en">"Come on down!" "The Price Is Right" -- hosted by Bob Barker until 2007 -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown." That's repeated in the second half of the show, and two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. Models present the prizes.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p21463338_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010210000 +0000" stop="20251010220000 +0000" channel="BUZZR.us2">
+        <title lang="en">The Price Is Right</title>
+        <desc lang="en">"Come on down!" "The Price Is Right" -- hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown." The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p31082639_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010220000 +0000" stop="20251010223000 +0000" channel="BUZZR.us2">
+        <title lang="en">Match Game</title>
+        <desc lang="en">Gene Rayburn hosts this comedy-game show hybrid in which contestants try to match answers given by celebrities to humorous, and often risque, fill-in-the-blank questions. The contestant with the most points at the end of the game advances to play the bonus round, in which the contestant has a chance to win thousands of dollars, with the actual amount dependent on the rules in place at the time of the episode.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p16781649_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010223000 +0000" stop="20251010230000 +0000" channel="BUZZR.us2">
+        <title lang="en">Match Game</title>
+        <desc lang="en">Gene Rayburn hosts this comedy-game show hybrid in which contestants try to match answers given by celebrities to humorous, and often risque, fill-in-the-blank questions. The contestant with the most points at the end of the game advances to play the bonus round, in which the contestant has a chance to win thousands of dollars, with the actual amount dependent on the rules in place at the time of the episode.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p16781649_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010230000 +0000" stop="20251010233000 +0000" channel="BUZZR.us2">
+        <title lang="en">Match Game</title>
+        <desc lang="en">Gene Rayburn hosts this comedy-game show hybrid in which contestants try to match answers given by celebrities to humorous, and often risque, fill-in-the-blank questions. The contestant with the most points at the end of the game advances to play the bonus round, in which the contestant has a chance to win thousands of dollars, with the actual amount dependent on the rules in place at the time of the episode.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p16781649_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010233000 +0000" stop="20251011000000 +0000" channel="BUZZR.us2">
+        <title lang="en">Match Game</title>
+        <desc lang="en">Gene Rayburn hosts this comedy-game show hybrid in which contestants try to match answers given by celebrities to humorous, and often risque, fill-in-the-blank questions. The contestant with the most points at the end of the game advances to play the bonus round, in which the contestant has a chance to win thousands of dollars, with the actual amount dependent on the rules in place at the time of the episode.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p16781649_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011000000 +0000" stop="20251011003000 +0000" channel="BUZZR.us2">
+        <title lang="en">Tattletales</title>
+        <desc lang="en">Celebrity couples answer questions to win money for the audience.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p13922097_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011003000 +0000" stop="20251011010000 +0000" channel="BUZZR.us2">
+        <title lang="en">Tattletales</title>
+        <desc lang="en">Celebrity couples answer questions to win money for the audience.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p13922097_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011010000 +0000" stop="20251011013000 +0000" channel="BUZZR.us2">
+        <title lang="en">Tattletales</title>
+        <desc lang="en">Celebrity couples answer questions to win money for the audience.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p13922097_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011013000 +0000" stop="20251011020000 +0000" channel="BUZZR.us2">
+        <title lang="en">Card Sharks</title>
+        <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p217332_b_h10_af.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011020000 +0000" stop="20251011023000 +0000" channel="BUZZR.us2">
+        <title lang="en">Card Sharks</title>
+        <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p217332_b_h10_af.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011023000 +0000" stop="20251011030000 +0000" channel="BUZZR.us2">
+        <title lang="en">Card Sharks</title>
+        <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p217332_b_h10_af.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011030000 +0000" stop="20251011033000 +0000" channel="BUZZR.us2">
+        <title lang="en">Press Your Luck</title>
+        <desc lang="en">Contestants try to answer trivia answers correctly to collect spins on a gameboard, where they can win cash and prizes. Unless, of course, they land on a "Whammy," which takes away the player's loot. The contestant with the most accumulated cash and prizes at the end of the show is the winner.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p184774_b_h8_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011033000 +0000" stop="20251011040000 +0000" channel="BUZZR.us2">
+        <title lang="en">Press Your Luck</title>
+        <desc lang="en">Contestants try to answer trivia answers correctly to collect spins on a gameboard, where they can win cash and prizes. Unless, of course, they land on a "Whammy," which takes away the player's loot. The contestant with the most accumulated cash and prizes at the end of the show is the winner.</desc>
+        <category lang="en">Game show</category>
+        <icon src="http://dshm.tmsimg.com/assets/p184774_b_h8_ab.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011040000 +0000" stop="20251011043000 +0000" channel="BUZZR.us2">
+        <title lang="en">Paid Programming</title>
+        <desc lang="en">Paid programming.</desc>
+        <category lang="en">Shopping</category>
+        <category lang="en">Consumer</category>
+        <category lang="en">Variety</category>
+        <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011043000 +0000" stop="20251011050000 +0000" channel="BUZZR.us2">
+        <title lang="en">Paid Programming</title>
+        <desc lang="en">Paid programming.</desc>
+        <category lang="en">Shopping</category>
+        <category lang="en">Consumer</category>
+        <category lang="en">Variety</category>
+        <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251007050000 +0000" stop="20251007060000 +0000" channel="MSNBC.HD.us2">
         <title lang="en">The Last Word With Lawrence O'Donnell</title>
@@ -4966,6 +4845,174 @@
         <icon src="http://dshm.tmsimg.com/assets/p21617497_b_h8_ag.jpg?w=960&amp;h=540" />
         </programme>
     <programme start="20251010040000 +0000" stop="20251010050000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">The Briefing With Jen Psaki</title>
+        <desc lang="en">Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <icon src="http://dshm.tmsimg.com/assets/p29964097_b_h8_ad.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010050000 +0000" stop="20251010060000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">The Last Word With Lawrence O'Donnell</title>
+        <desc lang="en">In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <category lang="en">Interview</category>
+        <category lang="en">Politics</category>
+        <category lang="en">Public affairs</category>
+        <icon src="http://dshm.tmsimg.com/assets/p8306876_b_h8_ae.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010060000 +0000" stop="20251010070000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">The 11th Hour With Stephanie Ruhle</title>
+        <desc lang="en">Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <category lang="en">Politics</category>
+        <category lang="en">Interview</category>
+        <category lang="en">Public affairs</category>
+        <icon src="http://dshm.tmsimg.com/assets/p21617497_b_h8_ag.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010070000 +0000" stop="20251010080000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">All In With Chris Hayes</title>
+        <desc lang="en">Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <category lang="en">Public affairs</category>
+        <category lang="en">Politics</category>
+        <category lang="en">Interview</category>
+        <icon src="http://dshm.tmsimg.com/assets/p9882717_b_h8_af.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010080000 +0000" stop="20251010090000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">The Briefing With Jen Psaki</title>
+        <desc lang="en">Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <icon src="http://dshm.tmsimg.com/assets/p29964097_b_h8_ad.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010090000 +0000" stop="20251010100000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: Way Too Early With Ali Vitali</title>
+        <desc lang="en">Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <icon src="http://dshm.tmsimg.com/assets/p29075279_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010100000 +0000" stop="20251010140000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: Morning Joe</title>
+        <desc lang="en">Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <category lang="en">Interview</category>
+        <category lang="en">Politics</category>
+        <category lang="en">Public affairs</category>
+        <icon src="http://dshm.tmsimg.com/assets/p186220_b_h8_ae.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010140000 +0000" stop="20251010150000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: Ana Cabrera Reports</title>
+        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <category lang="en">Interview</category>
+        <category lang="en">Politics</category>
+        <category lang="en">Public affairs</category>
+        <icon src="http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010150000 +0000" stop="20251010160000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: Ana Cabrera Reports</title>
+        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <category lang="en">Interview</category>
+        <category lang="en">Politics</category>
+        <category lang="en">Public affairs</category>
+        <icon src="http://dshm.tmsimg.com/assets/p24490202_b_h8_af.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010160000 +0000" stop="20251010170000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: Chris Jansing Reports</title>
+        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <icon src="http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010170000 +0000" stop="20251010180000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: Chris Jansing Reports</title>
+        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <icon src="http://dshm.tmsimg.com/assets/p22203124_b_h8_ag.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010180000 +0000" stop="20251010190000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: Katy Tur Reports</title>
+        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <icon src="http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010190000 +0000" stop="20251010200000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: Katy Tur Reports</title>
+        <desc lang="en">The latest breaking news, reporting and coverage of the day's important stories.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <icon src="http://dshm.tmsimg.com/assets/p19714416_b_h8_af.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010200000 +0000" stop="20251010220000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: Deadline: White House</title>
+        <desc lang="en">In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <category lang="en">Politics</category>
+        <icon src="http://dshm.tmsimg.com/assets/p14124364_b_h8_ae.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010220000 +0000" stop="20251010230000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: The Beat With Ari Melber</title>
+        <desc lang="en">Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <icon src="http://dshm.tmsimg.com/assets/p28947784_b_h10_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251010230000 +0000" stop="20251011000000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: The Weeknight</title>
+        <desc lang="en">Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <icon src="http://dshm.tmsimg.com/assets/p29964114_b_h8_aa.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011000000 +0000" stop="20251011010000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: All In With Chris Hayes</title>
+        <desc lang="en">Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <category lang="en">Public affairs</category>
+        <category lang="en">Politics</category>
+        <category lang="en">Interview</category>
+        <icon src="http://dshm.tmsimg.com/assets/p9882717_b_h8_af.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011010000 +0000" stop="20251011020000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: The Briefing With Jen Psaki</title>
+        <desc lang="en">Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <icon src="http://dshm.tmsimg.com/assets/p29964097_b_h8_ad.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011020000 +0000" stop="20251011030000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: The Last Word With Lawrence O'Donnell</title>
+        <desc lang="en">In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <category lang="en">Interview</category>
+        <category lang="en">Politics</category>
+        <category lang="en">Public affairs</category>
+        <icon src="http://dshm.tmsimg.com/assets/p8306876_b_h8_ae.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011030000 +0000" stop="20251011040000 +0000" channel="MSNBC.HD.us2">
+        <title lang="en">Live: The 11th Hour With Stephanie Ruhle</title>
+        <desc lang="en">Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+        <category lang="en">Series</category>
+        <category lang="en">News</category>
+        <category lang="en">Politics</category>
+        <category lang="en">Interview</category>
+        <category lang="en">Public affairs</category>
+        <icon src="http://dshm.tmsimg.com/assets/p21617497_b_h8_ag.jpg?w=960&amp;h=540" />
+        </programme>
+    <programme start="20251011040000 +0000" stop="20251011050000 +0000" channel="MSNBC.HD.us2">
         <title lang="en">The Briefing With Jen Psaki</title>
         <desc lang="en">Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
         <category lang="en">Series</category>
