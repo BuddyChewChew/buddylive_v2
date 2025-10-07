@@ -209,7 +209,7 @@ print("#EXTM3U")
 # Iterate over each live TV channel link
 for name, link in live_tv_links:
     # Initialize variables with default values
-    m3u8_url = "https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4"
+    m3u8_url = "https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4"
     logo_url = channel_logos.get(name, "")
     
     # Navigate to the link URL
