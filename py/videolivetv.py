@@ -178,7 +178,7 @@ stealth(
 )
 
 # Open the webpage
-url = "https://thetvapp.to/tv/"
+url = "https://thetvapp.to/"
 driver.get(url)
 
 # Wait for the page to load
