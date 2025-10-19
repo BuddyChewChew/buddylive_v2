@@ -6,12 +6,13 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium_stealth import stealth
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.core.os_manager import ChromeType
-from channel_mapping import channel_names
 import random
 import time
 import json
+import urllib.parse
 
 user_agents = [
+    #add your list of user agents here
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
     'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
@@ -23,7 +24,9 @@ user_agents = [
     'Mozilla/5.0 (iPhone; CPU iPhone OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/127.0 Mobile/15E148 Safari/605.1.15',
     'Mozilla/5.0 (Android 14; Mobile; rv:127.0) Gecko/126.0 Firefox/126.0',
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:115.0) Gecko/20100101 Firefox/115.0',
+
 ]
+
 
 # Dictionary mapping channel IDs to channel names
 channel_logos = {
@@ -93,6 +96,7 @@ channel_logos = {
     "Lifetime": "https://cdn.tvpassport.com/image/station/240x135/v2/s10918_h15_ac.png",
     "LMN": "https://cdn.tvpassport.com/image/station/240x135/v2/s55887_h15_ag.png",
     "Logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s46762_h15_aa.png",
+    "MeTV Toons":"https://cdn.tvpassport.com/image/station/240x135/v2/s159817_h15_aa.png",
     "MLB Network": "https://cdn.tvpassport.com/image/station/240x135/v2/s62079_h15_aa.png",
     "MoreMAX": "https://cdn.tvpassport.com/image/station/240x135/v2/s59373_h15_ad.png",
     "MotorTrend HD": "https://cdn.tvpassport.com/image/station/240x135/v2/s31046_h15_ab.png",
@@ -144,10 +148,12 @@ channel_logos = {
     "WE tv": "https://cdn.tvpassport.com/image/station/240x135/v2/s59296_h15_aa.png",
     "WNBC (New York) NBC East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",
     "WNYW (New York) FOX East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"
+
+    # Add more channel IDs and names as needed
 }
 
-# Initialize Chrome WebDriver
 chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
+
 
 # Set Chrome options
 chrome_options = webdriver.ChromeOptions()
@@ -181,6 +187,7 @@ stealth(
 url = "https://thetvapp.to/"
 driver.get(url)
 
+
 # Wait for the page to load
 wait = WebDriverWait(driver, 10)
 wait.until(EC.presence_of_element_located((By.CLASS_NAME, "row")))
@@ -208,23 +215,19 @@ print("#EXTM3U")
 
 # Iterate over each live TV channel link
 for name, link in live_tv_links:
-    # Initialize variables with default values
-    m3u8_url = "https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4"
-    logo_url = channel_logos.get(name, "")
-    
     # Navigate to the link URL
     driver.get(link)
 
     try:
         # Wait for the button to be clickable
         wait = WebDriverWait(driver, 5)
-        try:
-            # Try to find loadVideoBtn first
-            video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtn')))
-        except:
-            # If loadVideoBtn is not found, look for loadVideoBtnTwo
-            video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtnTwo')))
-        video_button.click()
+        #try:
+            # Try to find loadVideoBtnOne first
+        #    video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtn')))
+        #except:
+            # If loadVideoBtnOne is not found, look for loadVideoBtnTwo
+        #    video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtnTwo')))
+        #video_button.click()
 
         # Wait for a brief period to allow the page to load and network requests to be made
         time.sleep(5)
@@ -235,28 +238,50 @@ for name, link in live_tv_links:
         # Convert the string back to a list of dictionaries in Python
         network_requests = json.loads(network_requests)
 
+        # Get the logo URL for the current channel
+        logo_url = channel_logos.get(name)
+
+
         # Filter out only the URLs containing ".m3u8"
         m3u8_urls = [request["name"] for request in network_requests if ".m3u8" in request["name"]]
 
-        # If we found any m3u8 URLs, use the first one
+        cleaned_m3u8_urls = []
+
+        for url in m3u8_urls:
+            if "ping.gif" in url and "mu=" in url:
+                try:
+                    parsed = urllib.parse.urlparse(url)
+                    query_params = urllib.parse.parse_qs(parsed.query)
+                    if "mu" in query_params:
+                        real_url = urllib.parse.unquote(query_params["mu"][0])
+                        cleaned_m3u8_urls.append(real_url)
+                    else:
+                        # If "mu" not found, just keep the original
+                        cleaned_m3u8_urls.append(url)
+                except Exception as e:
+                    print(f"Error decoding URL: {url} -> {e}")
+                    cleaned_m3u8_urls.append(url)
+            else:
+                # Not ping.gif, just keep the original
+                cleaned_m3u8_urls.append(url)
+
+        # Use the cleaned list (which includes all original URLs if they didn't need cleaning)
+        m3u8_urls = cleaned_m3u8_urls
+
+        # Print the collected m3u8 URLs
         if m3u8_urls:
             m3u8_url = m3u8_urls[0]
-
+        else:
+            m3u8_url = "https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4"
     except Exception as e:
-        # If any error occurs, the default URL will be used
-        print(f"Error processing {name}: {str(e)}")
-        pass
+        # If an exception occurs (e.g., button not found), use the default link
+        m3u8_url = "https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4"
 
-    # Get the EPGShare01 channel ID, defaulting to the channel name if not found
-    channel_id = channel_names.get(name, name)
-    
-    # Special case for A&E channel
-    if name == "A&E":
-        channel_id = "A.and.E.US.-.Eastern.Feed.us"
-    
-    # Print the channel information and URL
-    print(f"#EXTINF:-1 group-title=\"USA TV\" tvg-id=\"{channel_id}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
-    print(m3u8_url)
+    # Print the collected m3u8 URL
+    if m3u8_urls:
+        print(f"#EXTINF:-1 group-title=\"USA TV\" tvg-ID=\"{name}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
+        print(m3u8_url)  # Print only the first m3u8 URL
+
 
 # Close the WebDriver
 driver.quit()
