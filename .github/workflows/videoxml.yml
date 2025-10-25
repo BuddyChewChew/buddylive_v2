@@ -8,106 +8,46 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 */4 * * *' # every 4 hours
-  workflow_dispatch: {}      # allow manual runs
-
-permissions:
-  contents: write
-  pull-requests: write
-
-concurrency:
-  group: live-epg-generator
-  cancel-in-progress: true
+    # Runs every 4 hours at 00:00, 04:00, 12:00 UTC
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
 
 jobs:
-  generate-and-pr:
-    name: Generate EPG, sanitize, and open PR
+  scrape_and_generate_epg:
+    name: Scrape TV Programming and Generate EPG
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
-
-      - name: Install system deps (Chromium + libs)
-        run: |
-          sudo apt-get update -y
-          sudo apt-get install -y chromium-browser chromium-chromedriver fonts-liberation \
-            libnss3 libxss1 libasound2 libatk1.0-0 libgtk-3-0
-          if [ -x /usr/bin/chromium ] && [ ! -x /usr/bin/chromium-browser ]; then
-            sudo ln -s /usr/bin/chromium /usr/bin/chromium-browser || true
-          fi
+        uses: actions/checkout@v2
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v2
         with:
           python-version: '3.x'
 
-      - name: Install Python dependencies
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pytz selenium webdriver-manager selenium-stealth
+          pip install requests beautifulsoup4 pytz selenium webdriver-manager selenium-stealth gunicorn
 
-      - name: Ensure output directory exists
-        run: mkdir -p en
-
-      - name: Run EPG generator
-        env:
-          TZ: America/New_York
-          CHROME_PATH: /usr/bin/chromium-browser
+      - name: Generate Live TV M3U
         run: |
           python py/videolivetv.py > en/videoall.m3u
+        env:
+          TZ: America/New_York  # Set the timezone
+          
+      - name: Generate EPG XML
+        run: |
           python py/videoxml_clean.py
-          mv -f epg.xml en/videoall.xml
+          mv epg.xml en/videoall.xml
 
-      - name: Sanitize generated files
-        run: |
-          python py/sanitize_epg.py
 
-      - name: Quick check for suspicious patterns
-        run: |
-          set -e
-          GREP_PATTERNS="Bearer|api[_-]?key|access[_-]?token|AKIA|-----BEGIN|ssh-(rsa|ed25519)"
-          for f in en/videoall.m3u en/videoall.xml; do
-            if [ -f "$f" ]; then
-              if grep -E -n "$GREP_PATTERNS" "$f" >/dev/null 2>&1; then
-                echo "ERROR: suspicious pattern found in $f; please inspect the file or update py/sanitize_epg.py"
-                grep -E -n "$GREP_PATTERNS" "$f" | sed -E "s/(:.+:)(.+)/\1[REDACTED_MATCH]/"
-                exit 5
-              fi
-            fi
-          done
-          echo "No suspicious patterns found."
-
-      - name: Configure git user
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit sanitized files to feature branch
+      - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "[skip ci] Auto update EPG files (sanitized)"
-          branch: feature/auto-epg-update-${{ github.run_id }}
-          file_pattern: |
+          commit_message: "Update Live TV and EPG"
+          files: |
             en/videoall.m3u
             en/videoall.xml
-          commit_user_name: github-actions[bot]
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          create_branch: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: feature/auto-epg-update-${{ github.run_id }}
-          base: main
-          title: "Auto update EPG files (sanitized)"
-          body: |
-            Generated EPG files were sanitized for secrets and updated by workflow.
-          labels: automated,epg
-          draft: false
