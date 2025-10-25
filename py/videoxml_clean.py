@@ -1,4 +1,3 @@
-# py/videoxml_clean.py
 import requests
 import gzip
 import io
