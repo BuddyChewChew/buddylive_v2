@@ -1,9 +1,15 @@
 name: Live TV EPG Generator
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
   schedule:
-    - cron: '0 */4 * * *' # every 4 hours; adjust as needed
+    - cron: '0 */4 * * *' # every 4 hours
+  workflow_dispatch: {}      # allow manual runs
 
 permissions:
   contents: write
@@ -30,7 +36,6 @@ jobs:
           sudo apt-get update -y
           sudo apt-get install -y chromium-browser chromium-chromedriver fonts-liberation \
             libnss3 libxss1 libasound2 libatk1.0-0 libgtk-3-0
-          # ensure expected binary exists
           if [ -x /usr/bin/chromium ] && [ ! -x /usr/bin/chromium-browser ]; then
             sudo ln -s /usr/bin/chromium /usr/bin/chromium-browser || true
           fi
@@ -61,5 +66,48 @@ jobs:
         run: |
           python py/sanitize_epg.py
 
-      - name](#)*
-
+      - name: Quick check for suspicious patterns
+        run: |
+          set -e
+          GREP_PATTERNS="Bearer|api[_-]?key|access[_-]?token|AKIA|-----BEGIN|ssh-(rsa|ed25519)"
+          for f in en/videoall.m3u en/videoall.xml; do
+            if [ -f "$f" ]; then
+              if grep -E -n "$GREP_PATTERNS" "$f" >/dev/null 2>&1; then
+                echo "ERROR: suspicious pattern found in $f; please inspect the file or update py/sanitize_epg.py"
+                grep -E -n "$GREP_PATTERNS" "$f" | sed -E "s/(:.+:)(.+)/\1[REDACTED_MATCH]/"
+                exit 5
+              fi
+            fi
+          done
+          echo "No suspicious patterns found."
+
+      - name: Configure git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit sanitized files to feature branch
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "[skip ci] Auto update EPG files (sanitized)"
+          branch: feature/auto-epg-update-${{ github.run_id }}
+          file_pattern: |
+            en/videoall.m3u
+            en/videoall.xml
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          create_branch: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: feature/auto-epg-update-${{ github.run_id }}
+          base: main
+          title: "Auto update EPG files (sanitized)"
+          body: |
+            Generated EPG files were sanitized for secrets and updated by workflow.
+          labels: automated,epg
+          draft: false
