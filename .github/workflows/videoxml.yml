@@ -3,7 +3,7 @@ name: Live TV EPG Generator
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */4 * * *' # adjust frequency if needed
+    - cron: '0 */4 * * *' # every 4 hours; adjust as needed
 
 permissions:
   contents: write
@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   generate-and-pr:
-    name: Generate EPG and open PR
+    name: Generate EPG, sanitize, and open PR
     runs-on: ubuntu-latest
 
     steps:
@@ -25,65 +25,41 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
+      - name: Install system deps (Chromium + libs)
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y chromium-browser chromium-chromedriver fonts-liberation \
+            libnss3 libxss1 libasound2 libatk1.0-0 libgtk-3-0
+          # ensure expected binary exists
+          if [ -x /usr/bin/chromium ] && [ ! -x /usr/bin/chromium-browser ]; then
+            sudo ln -s /usr/bin/chromium /usr/bin/chromium-browser || true
+          fi
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Install Dependencies
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pytz selenium webdriver-manager selenium-stealth gunicorn
+          pip install requests beautifulsoup4 pytz selenium webdriver-manager selenium-stealth
+
+      - name: Ensure output directory exists
+        run: mkdir -p en
 
       - name: Run EPG generator
-        id: generate
+        env:
+          TZ: America/New_York
+          CHROME_PATH: /usr/bin/chromium-browser
         run: |
-          # Run your existing generator commands; these must produce en/videoall.m3u and en/videoall.xml
           python py/videolivetv.py > en/videoall.m3u
           python py/videoxml_clean.py
           mv -f epg.xml en/videoall.xml
-        env:
-          TZ: America/New_York
 
-      - name: Configure git user
+      - name: Sanitize generated files
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python py/sanitize_epg.py
 
-      - name: Check for repository changes
-        id: changes
-        run: |
-          git status --porcelain
-          if [ -n "$(git status --porcelain)" ]; then
-            echo "changed=true" >> $GITHUB_OUTPUT
-          else
-            echo "changed=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Commit changes to a feature branch
-        if: steps.changes.outputs.changed == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "[skip ci] Auto update EPG files"
-          branch: feature/auto-epg-update-${{ github.run_id }}
-          file_pattern: |
-            en/videoall.m3u
-            en/videoall.xml
-          author_name: github-actions[bot]
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create Pull Request
-        if: steps.changes.outputs.changed == 'true'
-        uses: peter-evans/create-pull-request@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: feature/auto-epg-update-${{ github.run_id }}
-          base: main
-          title: "Auto update EPG files"
-          body: |
-            This PR was created automatically by the Live TV EPG Generator workflow.
-            The commit includes [skip ci] to avoid re-triggering workflows.
-          labels: automated,epg
-          draft: false
+      - name](#)*
+
