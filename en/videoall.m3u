@@ -1,2715 +1,2715 @@
 #EXTM3U
 Error processing A&E: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://cdn.tvpassport.com/image/station/960x540/v2/s10036_h15_aa.png", A&E
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing ACC Network: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s111905_h15_ac.png", ACC Network
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing AMC: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s52247_h15_aa.png", AMC
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing American Heroes Channel: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18284_h15_aa.png", American Heroes Channel
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Animal Planet: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png", Animal Planet
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing BBC America: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18332_h15_aa.png", BBC America
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing BBC World News HD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s89542_h15_ab.png", BBC World News HD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing BET: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10051_h15_ad.png", BET
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing BET Her: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="BET.Her.us2" tvg-name="BET Her" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14897_h15_ac.png", BET Her
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Big Ten Network: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s56783_h15_ab.png", Big Ten Network
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Bloomberg TV: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s71799_h15_ab.png", Bloomberg TV
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Boomerang: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s21883_h15_ab.png", Boomerang
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Bravo: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Bravo.HD.us2" tvg-name="Bravo" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10057_h15_ab.png", Bravo
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Cartoon Network: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s60048_h15_ac.png", Cartoon Network
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing CBS Sports Network: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16365_h15_ae.png", CBS Sports Network
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Cinemax: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10120_h15_ab.png", Cinemax
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing CMT: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15072_h15_aa.png", CMT
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing CNBC: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10139_h15_ad.png", CNBC
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing CNN: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10142_h15_aa.png", CNN
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Comedy Central: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10149_h15_ab.png", Comedy Central
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Cooking Channel: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s30156_h15_aa.png", Cooking Channel
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Crime & Investigation HD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s61469_h15_ab.png", Crime & Investigation HD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing CSPAN: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="CSPAN.us2" tvg-name="CSPAN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10161_h15_ad.png", CSPAN
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing CSPAN 2: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="CSPAN2.us2" tvg-name="CSPAN 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10162_h15_ac.png", CSPAN 2
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Destination America: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Destination.America.HD.us2" tvg-name="Destination America" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16617_h15_aa.png", Destination America
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Discovery: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png", Discovery
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Discovery Family Channel: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_aa.png", Discovery Family Channel
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Discovery Life: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png", Discovery Life
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Disney Channel (East): Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel (East)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png", Disney Channel (East)
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Disney Junior: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s74885_h15_ab.png", Disney Junior
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Disney XD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png", Disney XD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing E!: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E!" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10989_h15_aa.png", E!
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing ESPN: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png", ESPN
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing ESPN2: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="ESPNU.HD.us2" tvg-name="ESPN2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png", ESPN2
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing ESPNews: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNews" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16485_h15_aa.png", ESPNews
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing ESPNU: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="ESPNU.HD.us2" tvg-name="ESPNU" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s45654_h15_aa.png", ESPNU
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Food Network: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12574_h15_ab.png", Food Network
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Fox Business Network: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58649_h15_ac.png", Fox Business Network
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing FOX News Channel: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16374_h15_ab.png", FOX News Channel
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing FOX Sports 1: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FOX Sports 1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png", FOX Sports 1
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing FOX Sports 2: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FOX Sports 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s33178_h15_ab.png", FOX Sports 2
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Freeform: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Freeform.HD.us2" tvg-name="Freeform" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10093_h15_ae.png", Freeform
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Fuse HD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Fuse.HD.us2" tvg-name="Fuse HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59116_h15_ac.png", Fuse HD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing FX: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58574_h15_aa.png", FX
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing FX Movie: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70253_h15_aa.png", FX Movie
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing FXX: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17927_h15_aa.png", FXX
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing FYI: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="FYI.Channel.HD.us2" tvg-name="FYI" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58988_h15_aa.png", FYI
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Golf Channel: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s65384_h15_aa.png", Golf Channel
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Hallmark: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s66268_h15_ab.png", Hallmark
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Hallmark Drama HD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Drama HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s105756_h15_ab.png", Hallmark Drama HD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Hallmark Movies & Mysteries HD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s61522_h15_ab.png", Hallmark Movies & Mysteries HD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing HBO 2 East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="HBO2.HD.us2" tvg-name="HBO 2 East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59368_h15_aa.png", HBO 2 East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing HBO Comedy HD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18429_h15_aa.png", HBO Comedy HD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing HBO East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="HBO.East.us2" tvg-name="HBO East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png", HBO East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing HBO Family East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="HBO.Drama.us2" tvg-name="HBO Family East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png", HBO Family East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing HBO Signature: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59363_h15_aa.png", HBO Signature
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing HBO Zone HD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png", HBO Zone HD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing HGTV: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14902_h15_ab.png", HGTV
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing History: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="History.HD.us2" tvg-name="History" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s57708_h15_ad.png", History
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing HLN: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="HLN.HD.us2" tvg-name="HLN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10145_h15_ac.png", HLN
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing IFC: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14873_h15_ac.png", IFC
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Investigation Discovery: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16615_h15_ad.png", Investigation Discovery
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing ION Television East HD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="ION.Television.HD.us2" tvg-name="ION Television East HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18633_h15_ac.png", ION Television East HD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Lifetime: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10918_h15_ac.png", Lifetime
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing LMN: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="LMN.HD.us2" tvg-name="LMN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s55887_h15_ag.png", LMN
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Logo: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Logo.us2" tvg-name="Logo" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s46762_h15_aa.png", Logo
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing MeTV Toons: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Me.TV.Network.us2" tvg-name="MeTV Toons" tvg-logo="", MeTV Toons
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing MLB Network: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s62079_h15_aa.png", MLB Network
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing MoreMAX: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="MoreMax.HD.us2" tvg-name="MoreMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59373_h15_ad.png", MoreMAX
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing MotorTrend HD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="MOTORTREND.HD.us2" tvg-name="MotorTrend HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s31046_h15_ab.png", MotorTrend HD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing MovieMAX: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="MovieMAX" tvg-name="MovieMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59963_h15_ab.png", MovieMAX
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing MSNBC: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16300_h15_ac.png", MSNBC
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing MTV: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10986_h15_aa.png", MTV
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Nat Geo WILD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="National.Geographic.Wild.HD.us2" tvg-name="Nat Geo WILD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s66804_h15_ab.png", Nat Geo WILD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing National Geographic: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s49438_h15_ab.png", National Geographic
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing NBA TV: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png", NBA TV
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Newsmax TV: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s87925_h15_ac.png", Newsmax TV
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing NFL Network: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s34710_h15_aa.png", NFL Network
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing NFL Red Zone: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL Red Zone" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s65024_h9_aa.png", NFL Red Zone
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing NHL Network: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58570_h15_ab.png", NHL Network
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Nick Jr.: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr." tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82649_h15_ad.png", Nick Jr.
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Nickelodeon East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png", Nickelodeon East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Nicktoons: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82654_h15_ac.png", Nicktoons
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Outdoor Channel: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s14776_h15_ab.png", Outdoor Channel
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing OWN: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="OWN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70387_h15_aa.png", OWN
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Oxygen True Crime: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s21484_h15_ac.png", Oxygen True Crime
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing PBS 13 (WNET) New York: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="WNET-DT.us_locals1" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11039_h15_ab.png", PBS 13 (WNET) New York
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing ReelzChannel: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="ReelzChannel.HD.us2" tvg-name="ReelzChannel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s52199_h9_ac.png", ReelzChannel
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Science: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Science.Channel.HD.us2" tvg-name="Science" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s57390_h15_ac.png", Science
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing SEC Network: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s89535_h15_ab.png", SEC Network
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Showtime (E): Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime (E)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11115_h15_aa.png", Showtime (E)
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing SHOWTIME 2: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Showtime.2.HD.us2" tvg-name="SHOWTIME 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png", SHOWTIME 2
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing STARZ East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Starz.HD.us2" tvg-name="STARZ East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png", STARZ East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing SundanceTV HD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s71280_h15_aa.png", SundanceTV HD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing SYFY: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Syfy.HD.us2" tvg-name="SYFY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png", SYFY
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing TBS: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="TBS.HD.us2" tvg-name="TBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11867_h15_ac.png", TBS
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing TCM: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s48815_h15_ab.png", TCM
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing TeenNick: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Teen.Nick.us2" tvg-name="TeenNick" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59036_h15_ac.png", TeenNick
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Telemundo East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Telemundo.Satellite.Feed.us2" tvg-name="Telemundo East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s73245_h15_ac.png", Telemundo East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Tennis Channel: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s33395_h15_ac.png", Tennis Channel
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing The CW (WPIX New York): Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="WPIX-DT.us_locals1" tvg-name="The CW (WPIX New York)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png", The CW (WPIX New York)
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing The Movie Channel East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s35329_h15_aa.png", The Movie Channel East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing The Weather Channel: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11187_h15_aa.png", The Weather Channel
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing TLC: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11158_h15_ad.png", TLC
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing TNT: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png", TNT
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Travel Channel: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="The.Travel.Channel.HD.us2" tvg-name="Travel Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11180_h15_ac.png", Travel Channel
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing truTV: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10153_h15_ad.png", truTV
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing TV One HD: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="TV.ONE.HD.us2" tvg-name="TV One HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s61960_h15_ab.png", TV One HD
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Universal Kids: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="PBS.KIDS.HD.us2" tvg-name="Universal Kids" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70225_h15_ae.png", Universal Kids
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing Univision East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Univision.Network.HD.us2" tvg-name="Univision East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11118_h15_ab.png", Univision East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing USA Network: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11207_h15_af.png", USA Network
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing VH1: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11218_h15_ac.png", VH1
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing VICE: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="Vice.us2" tvg-name="VICE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18822_h15_ac.png", VICE
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing WABC (New York) ABC East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="WABC-DT.us_locals1" tvg-name="WABC (New York) ABC East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png", WABC (New York) ABC East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing WCBS (New York) CBS East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="WCBS-DT.us_locals1" tvg-name="WCBS (New York) CBS East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png", WCBS (New York) CBS East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing WE tv: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="WE.tv.HD.us2" tvg-name="WE tv" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59296_h15_aa.png", WE tv
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing WNBC (New York) NBC East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="WNBC-DT.us_locals1" tvg-name="WNBC (New York) NBC East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png", WNBC (New York) NBC East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
 Error processing WNYW (New York) FOX East: Message: 
 Stacktrace:
-#0 0x55d85b803aea <unknown>
-#1 0x55d85b24fcdb <unknown>
-#2 0x55d85b2a26c4 <unknown>
-#3 0x55d85b2a2901 <unknown>
-#4 0x55d85b2f18b4 <unknown>
-#5 0x55d85b2eec87 <unknown>
-#6 0x55d85b294aca <unknown>
-#7 0x55d85b2957d1 <unknown>
-#8 0x55d85b7caab9 <unknown>
-#9 0x55d85b7cda8c <unknown>
-#10 0x55d85b7b3d49 <unknown>
-#11 0x55d85b7ce685 <unknown>
-#12 0x55d85b79b6c3 <unknown>
-#13 0x55d85b7f07d8 <unknown>
-#14 0x55d85b7f09b3 <unknown>
-#15 0x55d85b802a83 <unknown>
-#16 0x7f78ce69caa4 <unknown>
-#17 0x7f78ce729c6c <unknown>
+#0 0x562cc54ddaea <unknown>
+#1 0x562cc4f29cdb <unknown>
+#2 0x562cc4f7c6c4 <unknown>
+#3 0x562cc4f7c901 <unknown>
+#4 0x562cc4fcb8b4 <unknown>
+#5 0x562cc4fc8c87 <unknown>
+#6 0x562cc4f6eaca <unknown>
+#7 0x562cc4f6f7d1 <unknown>
+#8 0x562cc54a4ab9 <unknown>
+#9 0x562cc54a7a8c <unknown>
+#10 0x562cc548dd49 <unknown>
+#11 0x562cc54a8685 <unknown>
+#12 0x562cc54756c3 <unknown>
+#13 0x562cc54ca7d8 <unknown>
+#14 0x562cc54ca9b3 <unknown>
+#15 0x562cc54dca83 <unknown>
+#16 0x7f154a09caa4 <unknown>
+#17 0x7f154a129c6c <unknown>
 
 #EXTINF:-1 group-title="USA TV" tvg-id="WNYW-DT.us_locals1" tvg-name="WNYW (New York) FOX East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png", WNYW (New York) FOX East
 https://github.com/BuddyChewChew/buddylive_v2/raw/refs/heads/main/en/offline.mp4
