@@ -30,13 +30,13 @@ user_agents = [
 
 # Dictionary mapping channel IDs to channel names
 channel_logos = {
-    "WABC (New York) ABC East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",
-    "WCBS (New York) CBS East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",
-    "WNBC (New York) NBC East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",
-    "WNYW (New York) FOX East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",
-    "A&E": "https://cdn.tvpassport.com/image/station/960x540/v2/s10036_h15_aa.png",
-    "ACC Network": "https://cdn.tvpassport.com/image/station/240x135/v2/s111905_h15_ac.png",
-    "AMC": "https://cdn.tvpassport.com/image/station/240x135/v2/s52247_h15_aa.png",
+    "WABC (New York) ABC East": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/1-abc-blue-us.png?raw=true",
+    "WCBS (New York) CBS East": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/1-cbs-logo-white-us.png?raw=true",
+    "WNBC (New York) NBC East": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/1-nbc.png?raw=true",
+    "WNYW (New York) FOX East": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/1-FOX-blue.png?raw=true",
+    "A&E": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/a-and-e-us.png?raw=true",
+    "ACC Network": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/acc-network-us.png?raw=true",
+    "AMC": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/amc-us.png?raw=true",
     "American Heroes Channel": "https://cdn.tvpassport.com/image/station/240x135/v2/s18284_h15_aa.png",
     "Animal Planet": "https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png",
     "BBC America": "https://cdn.tvpassport.com/image/station/240x135/v2/s18332_h15_aa.png",
