@@ -30,6 +30,10 @@ user_agents = [
 
 # Dictionary mapping channel IDs to channel names
 channel_logos = {
+    "WABC (New York) ABC East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",
+    "WCBS (New York) CBS East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",
+    "WNBC (New York) NBC East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",
+    "WNYW (New York) FOX East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png",
     "A&E": "https://cdn.tvpassport.com/image/station/960x540/v2/s10036_h15_aa.png",
     "ACC Network": "https://cdn.tvpassport.com/image/station/240x135/v2/s111905_h15_ac.png",
     "AMC": "https://cdn.tvpassport.com/image/station/240x135/v2/s52247_h15_aa.png",
@@ -81,12 +85,12 @@ channel_logos = {
     "Hallmark": "https://cdn.tvpassport.com/image/station/240x135/v2/s66268_h15_ab.png",
     "Hallmark Drama HD": "https://cdn.tvpassport.com/image/station/240x135/v2/s105756_h15_ab.png",
     "Hallmark Movies & Mysteries HD": "https://cdn.tvpassport.com/image/station/240x135/v2/s61522_h15_ab.png",
-    "HBO 2 East": "https://cdn.tvpassport.com/image/station/240x135/v2/s59368_h15_aa.png",
-    "HBO Comedy HD": "https://cdn.tvpassport.com/image/station/240x135/v2/s18429_h15_aa.png",
-    "HBO East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png",
-    "HBO Family East": "https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png",
-    "HBO Signature": "https://cdn.tvpassport.com/image/station/240x135/v2/s59363_h15_aa.png",
-    "HBO Zone HD": "https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png",
+    "HBO East": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo.png?raw=true",
+    "HBO 2 East": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo-2.png?raw=true",
+    "HBO Comedy HD": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo-comedy.png?raw=true",
+    "HBO Family East": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo-family-us.png?raw=true",
+    "HBO Signature": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo-sig.png?raw=true",
+    "HBO Zone HD": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo-zone.png?raw=true",
     "HGTV": "https://cdn.tvpassport.com/image/station/240x135/v2/s14902_h15_ab.png",
     "History": "https://cdn.tvpassport.com/image/station/240x135/v2/s57708_h15_ad.png",
     "HLN": "https://cdn.tvpassport.com/image/station/240x135/v2/s10145_h15_ac.png",
@@ -143,11 +147,7 @@ channel_logos = {
     "USA Network": "https://cdn.tvpassport.com/image/station/240x135/v2/s11207_h15_af.png",
     "VH1": "https://cdn.tvpassport.com/image/station/240x135/v2/s11218_h15_ac.png",
     "VICE": "https://cdn.tvpassport.com/image/station/240x135/v2/s18822_h15_ac.png",
-    "WABC (New York) ABC East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",
-    "WCBS (New York) CBS East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",
-    "WE tv": "https://cdn.tvpassport.com/image/station/240x135/v2/s59296_h15_aa.png",
-    "WNBC (New York) NBC East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",
-    "WNYW (New York) FOX East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"
+    "WE tv": "https://cdn.tvpassport.com/image/station/240x135/v2/s59296_h15_aa.png"
 
     # Add more channel IDs and names as needed
 }
@@ -285,5 +285,6 @@ for name, link in live_tv_links:
 
 # Close the WebDriver
 driver.quit()
+
 
 
