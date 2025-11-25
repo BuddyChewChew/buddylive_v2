@@ -44,7 +44,7 @@ channel_logos = {
     "BET": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/bet-us.png?raw=true",
     "BET Her": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/bet-her-us.png?raw=true",
     "Big Ten Network": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/big-ten-network-us.png?raw=true",
-    "Bloomberg TV": "https://cdn.tvpassport.com/image/station/240x135/v2/s71799_h15_ab.png",
+    "Bloomberg TV": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/bloomberg-television-us.png?raw=true",
     "Boomerang": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/boomerang-us.png?raw=true",
     "Bravo": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/bravo-us.png?raw=true",
     "Cartoon Network": "https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/cartoon-network-us.png?raw=true",
@@ -285,6 +285,7 @@ for name, link in live_tv_links:
 
 # Close the WebDriver
 driver.quit()
+
 
 
 
