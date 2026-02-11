@@ -279,12 +279,13 @@ for name, link in live_tv_links:
 
     # Print the collected m3u8 URL
     if m3u8_urls:
-        print(f"#EXTINF:-1 group-title=\"TVApp Channels\" tvg-ID=\"{name}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
+        print(f"#EXTINF:-1 group-title=\"SD2 CHANNELS\" tvg-ID=\"{name}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
         print(m3u8_url)  # Print only the first m3u8 URL
 
 
 # Close the WebDriver
 driver.quit()
+
 
 
 
