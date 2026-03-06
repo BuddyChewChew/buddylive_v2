@@ -8,9 +8,12 @@ on:
     branches:
       - main
   schedule:
-    # Runs every 4 hours at 00:00, 04:00, 12:00 UTC
     - cron: '0 */4 * * *'
   workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   scrape_and_generate_epg:
@@ -18,37 +21,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pytz selenium webdriver-manager selenium-stealth gunicorn
+          pip install requests beautifulsoup4 pytz selenium webdriver-manager selenium-stealth
 
-      - name: Generate Live TV M3U
+      - name: Run Scraper and EPG Generator
         run: |
+          mkdir -p en
+          # Generate M3U
           python py/videolivetv.py > en/videoall.m3u
-        env:
-          TZ: America/New_York  # Set the timezone
-          
-      - name: Generate EPG XML
-        run: |
+          # Generate EPG
           python py/videoxml_clean.py
-          mv epg.xml en/videoall.xml
-
+          mv -f epg.xml en/videoall.xml
+        env:
+          TZ: America/New_York
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Updated"
-          files: |
-            en/videoall.m3u
-            en/videoall.xml
+          commit_message: "Auto-update Playlist and EPG"
+          file_pattern: 'en/*'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
