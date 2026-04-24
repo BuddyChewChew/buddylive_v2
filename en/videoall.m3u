@@ -1,237 +1,237 @@
 #EXTM3U
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="A&E" tvg-name="A&E" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/a-and-e-us.png?raw=true", A&E
-https://e4.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8?token=efXlvDYdAQTLxJ7bfjMuTQ&expires=1777060110&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e2.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8?token=Rsmh6KYgiivEdkUcDuuUZQ&expires=1777071836&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="ACC Network" tvg-name="ACC Network" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/acc-network-us.png?raw=true", ACC Network
-https://v1.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8?token=dU_EYaXF7W8V7dj1lCPpXQ&expires=1777060115&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v12.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8?token=ioiXgnUAtOKVDy2CQjadPA&expires=1777071841&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="AMC" tvg-name="AMC" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/amc-us.png?raw=true", AMC
-https://v1.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=Kg6cIzDE5hkV3GLK_ecUtA&expires=1777060120&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v12.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=jhuBp1WkjvCP9Z0O9H39wg&expires=1777071846&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="American Heroes Channel" tvg-name="American Heroes Channel" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/american-heroes-channel-us.png?raw=true", American Heroes Channel
-https://v13.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8?token=fI8rivfh7Z3tJ6x8W7gNEA&expires=1777060126&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v18.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8?token=A3-GcnWBfKbsttFQwQIysA&expires=1777071852&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/animal-planet-us.png?raw=true", Animal Planet
-https://v13.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8?token=Tv4otALWPbdw8-9BX5td1g&expires=1777060131&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v15.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8?token=6dMw84EsWV8xfkGTAfMLww&expires=1777071857&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="BBC America" tvg-name="BBC America" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/bbc-america-us.png?raw=true", BBC America
-https://v8.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=HX-5_H5gWeh9YeD0TOnH5A&expires=1777060136&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v13.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=-dzZm9zkNGTt-4pjsSUCNQ&expires=1777071862&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="BBC World News HD" tvg-name="BBC World News HD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/bbc-news-uk.png?raw=true", BBC World News HD
-https://v8.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8?token=9HrEM6uaAGWHjcCm7pRR2Q&expires=1777060141&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v13.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8?token=85r_J0jOG8etQclpZv7xjw&expires=1777071867&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="BET" tvg-name="BET" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/bet-us.png?raw=true", BET
-https://v4.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8?token=1e9YYVp9moxAEZ7aqVnxhA&expires=1777060146&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e4.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8?token=ekdhaI2MdbLH_6WqQ5oiwg&expires=1777071873&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="BET Her" tvg-name="BET Her" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/bet-her-us.png?raw=true", BET Her
-https://v18.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8?token=HixapU_wtgESn_gf6p-PBA&expires=1777060152&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v17.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8?token=Gk4ndb2aWsZApAZSliRCjQ&expires=1777071878&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Big Ten Network" tvg-name="Big Ten Network" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/big-ten-network-us.png?raw=true", Big Ten Network
-https://v18.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8?token=sTOVJAgRH34jMOR3VQPz6w&expires=1777060157&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e3.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8?token=ERZJJ0lAq9OGhb0R_ts11w&expires=1777071883&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/bloomberg-television-us.png?raw=true", Bloomberg TV
-https://v18.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8?token=U058P7De_3qLGZfw_TZMkw&expires=1777060162&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v3.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8?token=ZnyyEKd9ql-VXO6xGP3uDQ&expires=1777071888&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Boomerang" tvg-name="Boomerang" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/boomerang-us.png?raw=true", Boomerang
-https://v2.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=T0jvcMqjf0qx6uMe_ynm2Q&expires=1777060167&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e2.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=fXaRSPpizmmqKMfGSKEPdQ&expires=1777071894&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Bravo" tvg-name="Bravo" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/bravo-us.png?raw=true", Bravo
-https://v15.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8?token=OOcK_w9gEEmzP6BVVMmcVQ&expires=1777060173&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e2.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8?token=I7Y7ZWwB9F92WRoes3NIng&expires=1777071899&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/cartoon-network-us.png?raw=true", Cartoon Network
-https://v13.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=3fjMV_nD7HEeOcfmVb2tVQ&expires=1777060178&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e1.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=q7Sc62jtT8GKmRwh1ryv1w&expires=1777071905&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="CBS Sports Network" tvg-name="CBS Sports Network" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/cbs-sports-us.png?raw=true", CBS Sports Network
-https://v13.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=L3TSf8oNtDzmOfP0z04Uog&expires=1777060183&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v8.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=MV2gIZLXjpNGe8TJaHFXVQ&expires=1777071910&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Cinemax" tvg-name="Cinemax" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/cinemax-us.png?raw=true", Cinemax
-https://v14.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8?token=lcxNYn6uOLFu4LB5_fEJLA&expires=1777060188&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v16.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8?token=ZMQrDmZ9c98YN_YFyrpU1g&expires=1777071915&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="CMT" tvg-name="CMT" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/cmt-color-us.png?raw=true", CMT
-https://v2.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8?token=CIwHDEZ28X1mGQrYFuFiZg&expires=1777060193&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v12.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8?token=MykhjZksyfexXtm1sWBYqg&expires=1777071921&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="CNBC" tvg-name="CNBC" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/cnbc-us.png?raw=true", CNBC
-https://v16.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8?token=KoAKmEMKtb2-4Dq1w_mc1A&expires=1777060199&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v12.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8?token=kTV9TajtupuJ5iE9a6bD9w&expires=1777071926&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="CNN" tvg-name="CNN" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/cnn-us.png?raw=true", CNN
-https://v4.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8?token=bcJBTM_mfhYIzMo-qv2tvg&expires=1777060204&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v14.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8?token=QD3FpIxKB8QiAeRz9HZQlw&expires=1777071931&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/comedy-central-us.png?raw=true", Comedy Central
-https://e3.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8?token=LuWcwHQh0oXoCw11ybn_ew&expires=1777060209&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v14.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8?token=JUSiwbDxqmBbYmIywO3Apg&expires=1777071936&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Cooking Channel" tvg-name="Cooking Channel" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/cooking-channel-us.png?raw=true", Cooking Channel
-https://e2.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=Hdgbl2dLfkjCZUH1PjpRKw&expires=1777060214&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e4.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=DKjN6Rm25Ziv_OSiBu1Uog&expires=1777071942&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Crime & Investigation HD" tvg-name="Crime & Investigation HD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/crime-and-investigation-us.png?raw=true", Crime & Investigation HD
-https://e2.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8?token=boLb7qTph8mVN1QZYa2TNQ&expires=1777060220&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v5.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8?token=yJ2bE5kr0ohGUDuIGoZ_kA&expires=1777071947&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="CSPAN" tvg-name="CSPAN" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/c-span-1-us.png?raw=true", CSPAN
-https://v2.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8?token=Xg65Ek99wtkVNyp2l2E8mw&expires=1777060225&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v5.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8?token=dCHSwnVFuvOYjh1Kapxk0Q&expires=1777071952&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="CSPAN 2" tvg-name="CSPAN 2" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/c-span-2-us.png?raw=true", CSPAN 2
-https://e4.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8?token=OyEznc3ApUHw6n4mqqqgzg&expires=1777060230&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v4.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8?token=Qe320lgM3aaIZUdubNY2mQ&expires=1777071958&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Destination America" tvg-name="Destination America" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/destination-america-us.png?raw=true", Destination America
-https://e3.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8?token=xRO771q60NOqdsrI8PU-3w&expires=1777060235&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v4.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8?token=LZtm23OPmdAQq-dSjAA8ng&expires=1777071963&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Discovery" tvg-name="Discovery" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/discovery-channel-icon-us.png?raw=true", Discovery
-https://e3.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=Jpb6FbcR_dMUuOpORBw-Pg&expires=1777060240&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e3.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=HZQxfrtGmXAOoY7aMsf0DA&expires=1777071968&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Discovery Family Channel" tvg-name="Discovery Family Channel" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/discovery-family-us.png?raw=true", Discovery Family Channel
-https://v3.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8?token=E4DrngWWNJRuKnpFooQD5w&expires=1777060246&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e3.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8?token=ZGDsaHIv-s8hsSvBZjB66g&expires=1777071973&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Discovery Life" tvg-name="Discovery Life" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/discovery-life-us.png?raw=true", Discovery Life
-https://v15.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8?token=u9x_9jE-lbxbpZOzFjcLuQ&expires=1777060251&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v16.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8?token=JsMb0O2gyKsUHp7q1BxVCw&expires=1777071979&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Disney Channel (East)" tvg-name="Disney Channel (East)" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/disney-channel-us.png?raw=true", Disney Channel (East)
-https://v8.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=u-imlKZD7GsUkENg1XAK6w&expires=1777060256&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v3.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=9HzJneP7GuzWmY4C18M0fA&expires=1777071984&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/disney-jr-us.png?raw=true", Disney Junior
-https://v8.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8?token=AwZ3vSPLSwXsDW480R1Eow&expires=1777060261&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v3.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8?token=3qdD80HikGTiKLxGucS_lw&expires=1777071989&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Disney XD" tvg-name="Disney XD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/disney-xd-us.png?raw=true", Disney XD
-https://v14.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=5vmtvfptroRd5qYm2_VbbQ&expires=1777060267&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v17.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=_Jw6LXT0JBOmjFqgSeTMSQ&expires=1777071994&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="E!" tvg-name="E!" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/e-entertainment-us.png?raw=true", E!
-https://e1.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8?token=LiB8p9VWUs608K4RasZtuA&expires=1777060272&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v17.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8?token=j9w2migfsUEpvs75oUjX5g&expires=1777072000&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="ESPN" tvg-name="ESPN" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/espn-us.png?raw=true", ESPN
-https://e3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=zUtiSrLJbjCRzKffY2anaw&expires=1777060277&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e4.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=yZoQmnuyV7ZSpyyVj6gXXg&expires=1777072005&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="ESPN2" tvg-name="ESPN2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png", ESPN2
-https://e2.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=QY2yA-lOMQvKgW1ljxziOg&expires=1777060282&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e4.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=1-YzKi4wwuBi5uhyV7uMbQ&expires=1777072010&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="ESPNews" tvg-name="ESPNews" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/espnews-us.png?raw=true", ESPNews
-https://v15.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8?token=zW8bSseMh3Yg2IF7a-3ONQ&expires=1777060287&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e1.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8?token=NnCBcfg5QtGS00TbEbOVUg&expires=1777072016&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="ESPNU" tvg-name="ESPNU" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/espn-us.png?raw=true", ESPNU
-https://v15.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8?token=oQ5I0F4pGXJQvAZm1CM7SA&expires=1777060293&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e1.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8?token=E5R4b9sX4fQWh43g9B25HA&expires=1777072021&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Food Network" tvg-name="Food Network" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/food-network-us.png?raw=true", Food Network
-https://v8.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8?token=8u9lbcBAdzFZ6ZiKkVA3Zg&expires=1777060298&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v12.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8?token=IMpiYLh4vuB8a6D6hQmlWA&expires=1777072026&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Fox Business Network" tvg-name="Fox Business Network" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/fox-business-us.png?raw=true", Fox Business Network
-https://v17.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8?token=NE89GBlIPVXp19H7PlfqQw&expires=1777060303&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v18.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8?token=-Dk0RNIX3WSC_CNflpUvoQ&expires=1777072031&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="FOX News Channel" tvg-name="FOX News Channel" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/fox-news-us.png?raw=true", FOX News Channel
-https://v17.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=GbJQMYOGwzuIqkreBI3ATA&expires=1777060308&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v1.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=RhtcsuCdVE8flfCR9JVyTQ&expires=1777072037&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="FOX Sports 1" tvg-name="FOX Sports 1" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/fox-sports-1-us.png?raw=true", FOX Sports 1
-https://e4.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=iWR32C0LWZuTlnJfYVKeHg&expires=1777060314&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v1.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=vDeztgVt-EsjERIdyfh7Tw&expires=1777072042&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="FOX Sports 2" tvg-name="FOX Sports 2" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/fox-sports-2-us.png?raw=true", FOX Sports 2
-https://e4.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=xx3l_F_0o3hodrRHEb3A6w&expires=1777060319&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v8.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=G7g_SiPCmX70UCP6U9_1Zw&expires=1777072047&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Freeform" tvg-name="Freeform" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/freeform-us.png?raw=true", Freeform
-https://v13.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8?token=8UqyNQp_hi7wLzm66XYCNA&expires=1777060324&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v4.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8?token=kK0bM4QhIgSFrsN4HFx9Cw&expires=1777072053&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Fuse HD" tvg-name="Fuse HD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/fuse-us.png?raw=true", Fuse HD
-https://v13.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8?token=lAVJ3u8CZJjLk5O98dE-ng&expires=1777060329&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v18.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8?token=lO4XOKVf3-1sJ7dpte0YRg&expires=1777072058&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="FX" tvg-name="FX" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/fx-us.png?raw=true", FX
-https://v3.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8?token=Y6sMjZkcc-niY1MB1NZ02A&expires=1777060334&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v15.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8?token=011orYNcCZoXGArSwznR5A&expires=1777072063&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="FX Movie" tvg-name="FX Movie" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/fxm-movie-channel-us.png?raw=true", FX Movie
-https://v3.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8?token=qYwKnkwOwAsAi9J0K6bUjQ&expires=1777060340&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8?token=zl77uo3_tSZ1xoWJoBDv0g&expires=1777072068&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="FXX" tvg-name="FXX" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/fxx-us.png?raw=true", FXX
-https://v4.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8?token=12gYNm5jm-6Ajn7sJ4sMYQ&expires=1777060345&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e1.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8?token=xj8rVIzidAa7bnGITzJC7w&expires=1777072074&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="FYI" tvg-name="FYI" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/fyi-us.png?raw=true", FYI
-https://v4.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8?token=PWT6uSNDUJUFMNEKF-td_A&expires=1777060350&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v5.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8?token=ONuU6FnPAdop4_waYMIZfw&expires=1777072079&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Golf Channel" tvg-name="Golf Channel" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/golf-channel-ar.png?raw=true", Golf Channel
-https://v5.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=1Hpcwt3Acb3Zj-n69qgJCg&expires=1777060355&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v12.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8?token=ahV9l_-u-iPqj-sYL_2CxQ&expires=1777072084&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Hallmark" tvg-name="Hallmark" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-tv-us.png?raw=true", Hallmark
-https://v14.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8?token=b6a_X3lMw5aJpt4Q12Iefg&expires=1777060361&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v2.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8?token=4WumkgudWCQJGzu7FAf2DQ&expires=1777072090&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Hallmark Drama HD" tvg-name="Hallmark Drama HD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hallmark-channel-us.png?raw=true", Hallmark Drama HD
-https://v8.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8?token=A342dzAwJfcxCF4XAr6kSA&expires=1777060366&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v14.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8?token=liZrwXjtaIQpVl_qZR3O6A&expires=1777072095&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Hallmark Movies & Mysteries HD" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hallmark-mystery-us.png?raw=true", Hallmark Movies & Mysteries HD
-https://v8.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8?token=1D4BaTtdDSYzbfbUiXkq2A&expires=1777060371&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v14.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8?token=N3mtl5brLnf5EIhUb-lErw&expires=1777072100&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="HBO 2 East" tvg-name="HBO 2 East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo-2.png?raw=true", HBO 2 East
-https://e1.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8?token=JrQ0IHVd0lUbn456dWAHtA&expires=1777060376&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v3.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8?token=AUUD6x1rJDykWDYnT3iFvg&expires=1777072105&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="HBO Comedy HD" tvg-name="HBO Comedy HD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo-comedy.png?raw=true", HBO Comedy HD
-https://v5.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8?token=unj4lKcfMv_krm02pVi_0A&expires=1777060381&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v3.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8?token=Ibkaod-l9Ez_9ATRlRjIeg&expires=1777072111&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="HBO East" tvg-name="HBO East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo.png?raw=true", HBO East
-https://v3.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8?token=uDbrz1ILELOpQrhuDymzKQ&expires=1777060387&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v12.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8?token=4OjF8qMTF_oaRt1X0JZivQ&expires=1777072116&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="HBO Family East" tvg-name="HBO Family East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo-family-us.png?raw=true", HBO Family East
-https://v3.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8?token=yFftax6TCSsaSl7lIlD30A&expires=1777060392&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v12.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8?token=Xp-J7n7SxI-ZCp6liUyuWg&expires=1777072121&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo-sig.png?raw=true", HBO Signature
-https://v5.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8?token=4w_IPqwhvXVgY6REw3k4Sw&expires=1777060397&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v12.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8?token=kkgBTHOJ-yM2HHt1Ao4AOg&expires=1777072127&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="HBO Zone HD" tvg-name="HBO Zone HD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hbo-zone.png?raw=true", HBO Zone HD
-https://v4.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8?token=if3EJmDAepEhgjU3K_YaIA&expires=1777060402&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e4.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8?token=fi7Xte4ssJpNdvYrTV1_2w&expires=1777072132&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="HGTV" tvg-name="HGTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true", HGTV
-https://e3.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8?token=5hb_pxfTFVFBaPWyq-eiuw&expires=1777060408&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v17.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8?token=1twixNyfUV8n2DWabsi9gw&expires=1777072137&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="History" tvg-name="History" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/history-channel-us.png?raw=true", History
-https://e3.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8?token=Kv15-kpXXD3QBAl18jYNFg&expires=1777060413&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v17.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8?token=Q-3WVADPdbFZ45TZF5HYNQ&expires=1777072142&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="HLN" tvg-name="HLN" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/hln-us.png?raw=true", HLN
-https://v8.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8?token=Lh1cZqEHac9v-4e0h-QQeg&expires=1777060418&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v17.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8?token=W43cjPc9OPd162E3iTH6-w&expires=1777072148&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="IFC" tvg-name="IFC" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/ifc-us.png?raw=true", IFC
-https://v8.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8?token=Na4aGlmuDomU7b07i-cYNQ&expires=1777060423&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e3.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8?token=RpQ-xk0yQ-_6dOuWcy87NA&expires=1777072153&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Investigation Discovery" tvg-name="Investigation Discovery" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/investigation-discovery-us.png?raw=true", Investigation Discovery
-https://v2.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8?token=2wa2ZGgbYHaBLonKvMC7KA&expires=1777060429&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v13.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8?token=qTyLQ5_A_VDAD0dmGWmPRA&expires=1777072158&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="ION Television East HD" tvg-name="ION Television East HD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/ion-television-us.png?raw=true", ION Television East HD
-https://e1.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8?token=TdGE-Wx1F6ET9tldbXKNWg&expires=1777060434&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v13.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8?token=Oi6kQDry31Nag7s3vDlJRA&expires=1777072164&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Lifetime" tvg-name="Lifetime" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/lifetime-us.png?raw=true", Lifetime
-https://e1.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8?token=-oehoEfH12QUixeKxKSLfw&expires=1777060439&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e2.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8?token=DbK7ufbHmFv4vs0fJipNkQ&expires=1777072169&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="LMN" tvg-name="LMN" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/lifetime-movie-network-us.png?raw=true", LMN
-https://v3.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8?token=4TQJ3aLk78fG7nnIxLwF0A&expires=1777060444&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v17.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8?token=ckFspQ3Whu6MzgC-sMHP3w&expires=1777072174&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Logo" tvg-name="Logo" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/logo-us.png?raw=true", Logo
-https://v3.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8?token=bEV4BZ5GA2tvDrj22A3xBQ&expires=1777060449&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v14.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8?token=9YSzlTweU1yNbtaUX4Q0Xw&expires=1777072179&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="MeTV Toons" tvg-name="MeTV Toons" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/me-tv-toons-us.png?raw=true", MeTV Toons
-https://e2.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8?token=ghK1RntaVvxTnYSnfns99Q&expires=1777060455&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v14.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8?token=7pHtSkxUBlhj07hkQS3ERA&expires=1777072185&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="MLB Network" tvg-name="MLB Network" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/mlb-network-us.png?raw=true", MLB Network
-https://v17.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=2huE4_muldRi1i2hqh8_aQ&expires=1777060460&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v14.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=c_V86kNUwZAZfTmJPj8GCA&expires=1777072190&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="MoreMAX" tvg-name="MoreMAX" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/cinemax-us.png?raw=true", MoreMAX
-https://v17.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8?token=Ibm6dmHQnlFJ2i0N1ne1tw&expires=1777060465&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e1.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8?token=eVavAGu-qR6KQS_zTuJUQQ&expires=1777072195&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="MotorTrend HD" tvg-name="MotorTrend HD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/motor-trend-us.png?raw=true", MotorTrend HD
-https://v14.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8?token=-xTPR41EZ-hCouWlrF0JOg&expires=1777060470&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v18.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8?token=YNqBZpQbdqDxY1eSCv-tgg&expires=1777072201&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="MovieMAX" tvg-name="MovieMAX" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/cinemax-us.png?raw=true", MovieMAX
-https://e4.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8?token=y7z7ubXozB0A-FrSQWdhVA&expires=1777060476&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v5.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8?token=tbe20pS4MFGZO4rdnPwxqA&expires=1777072206&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="MSNBC" tvg-name="MSNBC" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/msnbc-alt-us.png?raw=true", MSNBC
-https://e4.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8?token=YvFy4ZMQIup51OIq8NLL9w&expires=1777060481&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v2.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8?token=V9ZeETI9uGnuRH2EO5QDsA&expires=1777072211&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="MTV" tvg-name="MTV" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/mtv-us.png?raw=true", MTV
-https://v16.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8?token=Vddu46KqYYaH8tiqGQmyWw&expires=1777060486&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v2.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8?token=_4jN-u7a5IR2Z2YGMiOVHw&expires=1777072216&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Nat Geo WILD" tvg-name="Nat Geo WILD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/nat-geo-wild-us.png?raw=true", Nat Geo WILD
-https://v16.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=Lxb0fgZhBEAJEYhSp2RqaQ&expires=1777060491&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e3.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=FYKerN-L8FbuXK7KoUkjcA&expires=1777072222&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="National Geographic" tvg-name="National Geographic" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/national-geographic-us.png?raw=true", National Geographic
-https://v2.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=b3SFTkQSVRKydcr_Mz-Pxw&expires=1777060497&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e3.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=kwaBISSVQoIVTtBNcnn8tQ&expires=1777072227&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="NBA TV" tvg-name="NBA TV" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/nba-tv-icon-us.png?raw=true", NBA TV
-https://v4.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=zj9n2ZIQH44NogjwO-zNdw&expires=1777060502&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v18.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=l_AKjpg4O2u95Hlr4tZubw&expires=1777072232&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Newsmax TV" tvg-name="Newsmax TV" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/newsmax-tv-us.png?raw=true", Newsmax TV
-https://v4.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8?token=GVG2umB8M71G7YMIW6ydQg&expires=1777060507&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v18.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8?token=k5xMAP7_7JqYedukbBn-MA&expires=1777072238&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="NFL Network" tvg-name="NFL Network" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/nfl-icon-us.png?raw=true", NFL Network
-https://v14.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=yV6zTsMOX_HKThAcBjhO0A&expires=1777060512&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v16.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8?token=3F8-VUw8uaZwkiwXC051JQ&expires=1777072243&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="NFL Red Zone" tvg-name="NFL Red Zone" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/nfl-red-zone-us.png?raw=true", NFL Red Zone
-https://e3.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=Cj2ix2FhU9eOXjePkciXGw&expires=1777060517&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v16.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8?token=KNZYEaD4YWo2fM54AuhPcQ&expires=1777072248&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="NHL Network" tvg-name="NHL Network" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/nhl-network-us.png?raw=true", NHL Network
-https://e3.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=n8_yE9hkNsb8Z2E0mr691g&expires=1777060523&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v12.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=AiOijxGqyU5rN5wxS0UmMA&expires=1777072253&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/nick-jr-us.png?raw=true", Nick Jr.
-https://v15.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=AmyZyB1KDqorvihGxvVv-A&expires=1777060528&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v12.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=Wv4zx5wn7A8SQWBxZLqrxg&expires=1777072259&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Nickelodeon East" tvg-name="Nickelodeon East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/nickelodeon-us.png?raw=true", Nickelodeon East
-https://v17.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=ByuvRSyiJoSqHJ3SueKAIQ&expires=1777060533&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e4.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=DO8mHmu7O2wGextDIHG7tA&expires=1777072264&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/nick-toons-us.png?raw=true", Nicktoons
-https://v12.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8?token=4qIAfJjGl9PelTqgrR9sZg&expires=1777060538&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e4.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8?token=DKFuWao4uc5aVw42kSvrLA&expires=1777072269&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Outdoor Channel" tvg-name="Outdoor Channel" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/outdoor-channel-us.png?raw=true", Outdoor Channel
-https://v12.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=B72kx7B0dtPwswjvAkHJig&expires=1777060543&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v8.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8?token=InBhdDWAPRpXG5RAp0B2ZQ&expires=1777072275&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="OWN" tvg-name="OWN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70387_h15_aa.png", OWN
-https://v2.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8?token=bz0cWw1F5msvBAymPLYlXQ&expires=1777060549&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v3.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8?token=m7omiTxQcLgB2bBqw-RdpA&expires=1777072280&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Oxygen True Crime" tvg-name="Oxygen True Crime" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/oprah-winfrey-network-us.png?raw=true", Oxygen True Crime
-https://v5.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8?token=QaYyy826Xlq0tIWfwj4CZA&expires=1777060554&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e1.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8?token=bw0MJiUE0AJi0DI6qM0_yg&expires=1777072285&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="PBS 13 (WNET) New York" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/pbs-us.png?raw=true", PBS 13 (WNET) New York
-https://v3.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8?token=QpAP1eBJff_w7YlXJqULqA&expires=1777060559&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v13.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8?token=tMi0OH8JpKt9-2Nwcvwmwg&expires=1777072290&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="ReelzChannel" tvg-name="ReelzChannel" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/reelz-us.png?raw=true", ReelzChannel
-https://v3.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8?token=OVWTnF9HzOG3XnodSWYAlg&expires=1777060564&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v5.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8?token=cwq7-MNciHvro1YoIrdBQw&expires=1777072296&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Science" tvg-name="Science" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/discovery-science-icon-us.png?raw=true", Science
-https://v12.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8?token=VsdnWaIA4EcMZfY6d30D8Q&expires=1777060570&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v5.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8?token=wdOx_xbxI8jp7btPnzthTQ&expires=1777072301&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="SEC Network" tvg-name="SEC Network" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/sec-network-us.png?raw=true", SEC Network
-https://v12.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8?token=sJyn85cHEmNUTLwgUsRLlg&expires=1777060575&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e2.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8?token=B4VeYFQNVrHux07_S0x3HQ&expires=1777072306&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Showtime (E)" tvg-name="Showtime (E)" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/showtime-icon-us.png?raw=true", Showtime (E)
-https://e1.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8?token=Rb4dPJRTyOqf9h9Z-jTugA&expires=1777060580&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e2.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8?token=kArxVMGO8GCnEVsgCZsRDQ&expires=1777072312&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="SHOWTIME 2" tvg-name="SHOWTIME 2" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/showtime2-icon-us.png?raw=true", SHOWTIME 2
-https://v17.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8?token=__jPcJoFI47hiDdY0lk6Ug&expires=1777060585&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e4.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8?token=USikcymeb6gfXoOtPMd0AQ&expires=1777072317&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="STARZ East" tvg-name="STARZ East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/starz-us.png?raw=true", STARZ East
-https://v17.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8?token=SHIXOIrTbILGPFPJqXoWdA&expires=1777060591&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v15.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8?token=tyY0UH97sWxLHLKwsp2aFQ&expires=1777072322&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="SundanceTV HD" tvg-name="SundanceTV HD" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/sundance-tv-us.png?raw=true", SundanceTV HD
-https://e4.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8?token=roK2LMxoY9lX-ndC-HLTYg&expires=1777060596&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v15.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8?token=qyd1kDeS_7SCbxFrmjUhCw&expires=1777072327&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="SYFY" tvg-name="SYFY" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/syfy-us.png?raw=true", SYFY
-https://v5.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8?token=k0OH_1hSva3G5O9MRbfs0w&expires=1777060601&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v2.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8?token=5mPTZ48A8UP_9wtW66tOSQ&expires=1777072333&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="TBS" tvg-name="TBS" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/tbs-us.png?raw=true", TBS
-https://v14.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8?token=o3Es3Nb2msaO_9hEi3TF6A&expires=1777060606&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v2.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8?token=rQgNRT1mqF0COA0ojZdiuw&expires=1777072338&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="TCM" tvg-name="TCM" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/tcm-us.png?raw=true", TCM
-https://v16.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8?token=sA1V6XOxM84JB1RIfdOuCQ&expires=1777060611&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v18.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8?token=2C996o_avPgPRCYVMtY60Q&expires=1777072343&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="TeenNick" tvg-name="TeenNick" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/teen-nick-us.png?raw=true", TeenNick
-https://v16.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8?token=h4cgPK6LPzR9kwTA6Y5iug&expires=1777060617&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v5.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8?token=SwV86qwR869PsnfV6aitxw&expires=1777072348&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Telemundo East" tvg-name="Telemundo East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/telemundo-us.png?raw=true", Telemundo East
-https://k1.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=qVn_IBofqXw68FTOQUFe-Q&expires=1777060622&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://k1.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=F-bUATA2s99zO1A3D-JJIQ&expires=1777072354&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/tennis-channel-us.png?raw=true", Tennis Channel
-https://e1.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8?token=LioGqrfzEcoHUmAfuU0zXg&expires=1777060627&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e4.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8?token=haoxHgCHxd8dJnL_WljTAg&expires=1777072359&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="The CW (WPIX New York)" tvg-name="The CW (WPIX New York)" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/the-cw-us.png?raw=true", The CW (WPIX New York)
-https://v4.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8?token=RNDjg0PFzUK8SWNd9sRfpA&expires=1777060632&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v13.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8?token=_4998j74GSkXR3OP-Zzxvg&expires=1777072364&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="The Movie Channel East" tvg-name="The Movie Channel East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/the-movie-channel-icon-us.png?raw=true", The Movie Channel East
-https://v4.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8?token=5owswokmkJu2XIRNMmV2jg&expires=1777060638&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v1.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8?token=gc-SDIi3yGw41_Oc9-jqrA&expires=1777072370&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="The Weather Channel" tvg-name="The Weather Channel" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/weather-channel-us.png?raw=true", The Weather Channel
-https://v8.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8?token=hNvKJAMqzfdvSw_c0D4zAA&expires=1777060643&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v8.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8?token=QYSGi9JSCZReVxMW36umUg&expires=1777072375&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="TLC" tvg-name="TLC" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/tlc-us.png?raw=true", TLC
-https://v12.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8?token=aQZwPKsjNyA7HmsPLwWvxQ&expires=1777060648&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e2.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8?token=nS9r0b2qf0JBBEbjeq_tHg&expires=1777072380&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="TNT" tvg-name="TNT" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/tnt-us.png?raw=true", TNT
-https://v16.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=zJm-WGg7uQW8_B_WYtNoSw&expires=1777060653&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e2.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=pXYiQayg8qdJG469MiGvfQ&expires=1777072385&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Travel Channel" tvg-name="Travel Channel" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/travel-channel-us.png?raw=true", Travel Channel
-https://v16.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=6nztWWht4IAnjSN643s2Iw&expires=1777060658&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e1.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=T4I34lYXYpfDGTp3QBE7hQ&expires=1777072391&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="truTV" tvg-name="truTV" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/tru-tv-us.png?raw=true", truTV
-https://v2.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8?token=Am719fz6P0uhHSviDg3qHA&expires=1777060664&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v18.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8?token=YydyxMQM6vyXLb4jxMvbNA&expires=1777072396&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="TV One HD" tvg-name="TV One HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/one-tv-us.png?raw=true", TV One HD
-https://v15.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8?token=ZAZZJLbM6eVl0S6_vGuc2A&expires=1777060669&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v4.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8?token=tjzdZLxVhLGf56QeWMsSkA&expires=1777072401&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Universal Kids" tvg-name="Universal Kids" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/universal-kids-us.png?raw=true", Universal Kids
-https://v15.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8?token=xoczDok-IotQPwq0YiEIqg&expires=1777060674&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v4.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8?token=GLoq3GBno6I2FFTB6S9D5A&expires=1777072407&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="Univision East" tvg-name="Univision East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/univision-us.png?raw=true", Univision East
-https://k1.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8?token=15IoN6Zc8R6IlXi5d7QSJg&expires=1777060679&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://k1.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8?token=RnLkqLwO3CYvl_vXxz9gkw&expires=1777072412&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="USA Network" tvg-name="USA Network" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/usa-us.png?raw=true", USA Network
-https://k1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8?token=nMZIcCKdJTgr1y578uYVqA&expires=1777060685&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://k1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8?token=oLrcKF9Q6bhyOL8XLcxb-Q&expires=1777072417&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="VH1" tvg-name="VH1" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/vh1-us.png?raw=true", VH1
-https://v1.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=3-28LV0annlmbfhEY8NsHg&expires=1777060690&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=_ZbVzCPUJxaeG6jIQ3alag&expires=1777072422&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="VICE" tvg-name="VICE" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/vice-us.png?raw=true", VICE
-https://v17.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=bhR0goKUU1_11RFDGIq-mw&expires=1777060695&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v14.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=ddMYzqXl4PuZCyR66CEl6w&expires=1777072428&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="WABC (New York) ABC East" tvg-name="WABC (New York) ABC East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/1-abc-blue-us.png?raw=true", WABC (New York) ABC East
-https://v17.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=xze7rFxACcQHup7_TuUP9w&expires=1777060700&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v13.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=wJfU1L7vQH4Q2bx_bX5sCw&expires=1777072433&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="WCBS (New York) CBS East" tvg-name="WCBS (New York) CBS East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/1-cbs-logo-white-us.png?raw=true", WCBS (New York) CBS East
-https://v2.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=5G3LKH6-E8IovgMpqWaXBg&expires=1777060706&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v4.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=R2Zv3aIRWusnkNWx1mutYQ&expires=1777072438&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="WE tv" tvg-name="WE tv" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/we-tv-us.png?raw=true", WE tv
-https://v2.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8?token=tnEs6OvzhKFzYfsjEcxd3g&expires=1777060711&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://v4.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8?token=lLUaUgpprOrt_oOIeRBQzg&expires=1777072443&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="WNBC (New York) NBC East" tvg-name="WNBC (New York) NBC East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/1-nbc.png?raw=true", WNBC (New York) NBC East
-https://k1.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8?token=k6y6ica89N6rQBU1bn9MIA&expires=1777060716&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://k1.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8?token=V9NsSv6P6gvrcr0tAEKP8g&expires=1777072449&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
 #EXTINF:-1 group-title="SD2 CHANNELS" tvg-ID="WNYW (New York) FOX East" tvg-name="WNYW (New York) FOX East" tvg-logo="https://github.com/BuddyChewChew/buddylive_v2/blob/main/logos/1-FOX-blue.png?raw=true", WNYW (New York) FOX East
-https://e3.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=j8idJX2PGDQlTyfMNA8xhQ&expires=1777060721&user_id=R25wTElNWHRXQ0hoTUdSbEdtNUtCZWZzZ2FxaWw2bUxpZ1V4cmxPNg==
+https://e4.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=qgPVvsWzfOwiLjP4_Bmecw&expires=1777072454&user_id=MzhEaUV5MW9tY0paaW9XT3lOVEx5cUpEZ0JxU0h5dXhGM2tGT004Vg==
